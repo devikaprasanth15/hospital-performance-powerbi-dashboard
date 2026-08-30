@@ -1,0 +1,2201 @@
+billing_id,admission_id,charge_type,amount,payment_status,payment_date
+1,1416,Surgery,20,Unpaid,45209
+2,13,Medication,4624.93,Paid,45598
+3,147,Imaging,4735.9471,Pending,45233
+4,522,Surgery,5344.32,Paid,46073
+5,219,Room,1181.81,Unpaid,45378
+6,923,Consultation,20,Paid,45279
+7,542,Consultation,5619.44,Overdue,45629
+8,917,Imaging,3062.51,Paid,45995
+9,353,Consultation,4340.72,Paid,45501
+10,425,Imaging,3216,Unpaid,45915
+11,284,Imaging,420350.67,Pending,45598
+12,1213,Room,5711,Unpaid,46211
+13,991,Room,20,Unpaid,45665
+14,1330,Medication,6923.06,Overdue,45841
+15,1093,Medication,2953.57,Paid,45105
+16,1139,Surgery,8381.22,Overdue,45729
+17,1508,Imaging,2121.63,Unpaid,45985
+18,660,Imaging,1455.21,Paid,45645
+19,1684,Imaging,3054.98,Unpaid,45598
+20,518,Room,5000,Unpaid,45817
+21,1681,Imaging,2677,Paid,45881
+22,1057,Room,,Paid,45598
+23,966,Medication,2339,Pending,45837
+24,226,Surgery,3605,Pending,45667
+25,542,Consultation,10209.6588,Unpaid,46208
+26,234,Surgery,4571.8,Paid,45475
+27,1352,Surgery,4812.4887,Paid,45975
+28,1015,Imaging,20,Unpaid,46047
+29,885,Room,-7562.86,Paid,45360
+30,1257,Consultation,6699.4,Unpaid,46087
+31,1600,Imaging,1356.65,Paid,45085
+32,711,Consultation,6640.18,Paid,45598
+33,86,Room,4489,Paid,45598
+34,614,Imaging,3639.2477,Paid,45415
+35,607,Lab Test,7372.87,Paid,45118
+36,1780,Medication,1963.1043,Pending,45828
+37,839,Imaging,1332.93,Paid,45996
+38,144,Imaging,4122.69,Paid,46083
+39,657,Surgery,5084.6864,Overdue,44943
+40,1823,Lab Test,6399,Unpaid,45564
+41,414,Room,3047.14,Pending,46154
+42,464,Consultation,950.69,Unpaid,45035
+43,956,Imaging,11085.7032,Paid,45758
+44,1264,Imaging,240.22,Paid,45006
+45,1669,Lab Test,3665.3544,Paid,45630
+46,263,Room,5839,Paid,45598
+47,247,Imaging,6953,Paid,45399
+48,552,Medication,1799,Paid,45685
+49,257,Imaging,20,Paid,46005
+50,846,Imaging,1729.2045,Unpaid,45761
+51,1499,Imaging,6083.97,Paid,45508
+52,883,Medication,5412.49,Pending,45418
+53,1117,Imaging,5510.37,Pending,45439
+54,970,Room,5634.9923,Pending,45155
+55,946,Surgery,7520.25,Paid,44928
+56,1419,Imaging,1172.33,Pending,45989
+57,739,Lab Test,20,Paid,45598
+58,1250,Imaging,4611.44,Overdue,45973
+59,684,Imaging,,Paid,45790
+60,1012,Lab Test,20,Paid,45310
+61,1512,Surgery,7171.8797,Overdue,45973
+62,982,Lab Test,4251.08,Paid,45517
+63,76,Imaging,3585.4794,Unpaid,45562
+64,125,Medication,3647.822,Pending,45818
+65,1398,Medication,3181.58,Paid,46115
+66,1353,Room,7151.72,Pending,45090
+67,439,Medication,20,Paid,46012
+68,73,Medication,-20,Overdue,45832
+69,1090,Imaging,690.86,Paid,45598
+70,846,Consultation,4367.48,Pending,45598
+71,824,Medication,8916.03,Paid,46166
+72,313,Consultation,-6107.25,Paid,45598
+73,738,Surgery,5277.3281,Overdue,45598
+74,683,Lab Test,3260.4,Pending,45598
+75,414,Imaging,20,Paid,45598
+76,552,Imaging,5045,Pending,46170
+77,1595,Imaging,9577.9012,Paid,45598
+78,649,Imaging,2779.83,Paid,45598
+79,1791,Room,-1817.98,Unpaid,45531
+80,184,Imaging,2794.27,Unpaid,45632
+81,179,Medication,5299,Paid,45598
+82,936,Consultation,3835.19,Pending,45388
+83,1153,Consultation,6230.04,Pending,45828
+84,756,Surgery,3399.65,Paid,45882
+85,1761,Imaging,2776.97,Paid,45371
+86,1727,Lab Test,4187.02,Overdue,45880
+87,1367,Medication,1881.04,Unpaid,46084
+88,1722,Room,8722.29,Paid,45126
+89,683,Consultation,5969.3432,Paid,45915
+90,909,Medication,201,Pending,45595
+91,1490,Medication,1263,Paid,45097
+92,1728,Imaging,5196.011,Unpaid,45654
+93,343,Room,4049.9526,Overdue,45598
+94,1435,Imaging,4407.54,Paid,45931
+95,973,Surgery,,Paid,46212
+96,1262,Imaging,4865.52,Unpaid,45507
+97,1242,Imaging,2994,Paid,45598
+98,1664,Imaging,5190.14,Paid,45997
+99,984,Imaging,5819.0847,Unpaid,45706
+100,1146,Imaging,8320.22,Paid,45221
+101,22,Medication,1956,Paid,46231
+102,1388,Room,3467,Paid,46094
+103,1676,Imaging,20,Pending,45598
+104,1036,Surgery,8978.78,Paid,45609
+105,1018,Room,20,Unpaid,45450
+106,870,Imaging,8548.61,Paid,46091
+107,61,Lab Test,3780.41,Overdue,45531
+108,266,Surgery,4755.28,Pending,45747
+109,148,Imaging,3002.9927,Pending,45016
+110,1211,Surgery,3593.3,Overdue,45598
+111,761,Lab Test,5264,Pending,44951
+112,1849,Surgery,20,Pending,46155
+113,1145,Surgery,1544,Overdue,45916
+114,1499,Imaging,964.8281,Pending,44967
+115,1323,Surgery,4842.21,Overdue,46174
+116,431,Imaging,3513.0986,Paid,45598
+117,1195,Consultation,,Paid,45598
+118,571,Surgery,3994.33,Pending,46140
+119,1058,Imaging,6675.77,Unpaid,45765
+120,1761,Lab Test,1279.18,Pending,45283
+121,846,Lab Test,3674.47,Paid,45251
+122,906,Lab Test,6828.09,Paid,45615
+123,541,Medication,6227.98,Unpaid,45598
+124,1746,Lab Test,20,Pending,46008
+125,248,Imaging,436.6676,Pending,46068
+126,289,Consultation,3255,Overdue,45739
+127,716,Lab Test,2795.49,Paid,45598
+128,573,Lab Test,3303.72,Overdue,45093
+129,1383,Lab Test,5888.57,Paid,45598
+130,1657,Consultation,4368.15,Overdue,46030
+131,18,Imaging,4543.07,Paid,45735
+132,970,Medication,5512,Pending,45738
+133,736,Lab Test,,Unpaid,46144
+134,939,Imaging,20,Pending,45471
+135,1132,Imaging,2340.12,Unpaid,44952
+136,1378,Imaging,851.1,Paid,45234
+137,1715,Imaging,4926,Pending,45120
+138,744,Consultation,2113.69,Pending,45598
+139,812,Imaging,3728,Pending,45598
+140,1740,Imaging,6056,Overdue,46228
+141,1477,Surgery,1691.0422,Paid,45798
+142,1397,Medication,4588.45,Pending,45705
+143,149,Lab Test,,Overdue,45598
+144,1086,Imaging,5994.85,Pending,46075
+145,1721,Imaging,,Paid,45598
+146,351,Room,2625,Pending,45598
+147,561,Room,4567.449,Pending,45944
+148,128,Lab Test,5158,Pending,45954
+149,631,Surgery,2742.95,Unpaid,45575
+150,40,Consultation,1580.63,Paid,45668
+151,910,Consultation,3703.29,Overdue,46012
+152,434,Medication,,Unpaid,45860
+153,1073,Imaging,6799.2028,Paid,45598
+154,756,Surgery,,Pending,45308
+155,270,Consultation,4684.08,Pending,45096
+156,1718,Surgery,2803,Unpaid,45598
+157,1807,Room,6322.703,Paid,45053
+158,48,Consultation,-5815.7877,Pending,44940
+159,1277,Consultation,2673,Paid,45239
+160,125,Lab Test,3356,Pending,46035
+161,1169,Room,1671.397,Paid,45598
+162,31,Room,,Unpaid,45678
+163,795,Consultation,4396.7274,Pending,45598
+164,1229,Consultation,1159.6,Pending,45597
+165,353,Lab Test,276,Unpaid,45078
+166,1097,Consultation,20,Pending,45214
+167,955,Consultation,4749.6,Unpaid,45478
+168,1424,Imaging,3465.5523,Overdue,45418
+169,374,Lab Test,3249.28,Pending,45204
+170,260,Consultation,4893.5778,Pending,46061
+171,1322,Surgery,797.1141,Unpaid,45510
+172,619,Consultation,289.24,Pending,45977
+173,748,Imaging,422324.5757,Paid,45412
+174,500,Imaging,20,Paid,45598
+175,1149,Room,2723.05,Paid,46023
+176,1098,Imaging,10899.34,Unpaid,46083
+177,1684,Imaging,20,Unpaid,45598
+178,936,Imaging,2211,Pending,45598
+179,1589,Medication,20,Paid,45293
+180,556,Consultation,2798.82,Paid,45934
+181,1145,Medication,9399.61,Paid,45749
+182,801,Imaging,4900.7523,Paid,45310
+183,752,Medication,1658.6621,Paid,45560
+184,1307,Imaging,10044.23,Pending,45678
+185,1154,Surgery,20,Paid,45396
+186,1410,Room,4861.83,Paid,46087
+187,971,Surgery,3695,Pending,45288
+188,195,Medication,2758.926,Pending,45598
+189,1399,Lab Test,5921.27,Paid,45183
+190,34,Lab Test,-20,Paid,45829
+191,692,Imaging,4437.87,Paid,45456
+192,331,Medication,4056.97,Pending,46125
+193,185,Surgery,886.962,Pending,45078
+194,1597,Surgery,9349.99,Unpaid,45224
+195,145,Imaging,2954.49,Overdue,45794
+196,1164,Room,3084.0489,Pending,45111
+197,428,Imaging,416.97,Paid,45598
+198,1531,Consultation,3009.98,Pending,45567
+199,965,Room,10504.2638,Overdue,45598
+200,1442,Surgery,-2742,Overdue,45396
+201,1054,Surgery,5056,Paid,45598
+202,1220,Imaging,6351.64,Pending,45598
+203,1624,Imaging,,Overdue,45952
+204,1813,Room,113561.45,Pending,45725
+205,1486,Imaging,4916.79,Paid,45597
+206,1646,Room,2776.2249,Pending,45669
+207,501,Lab Test,2504.46,Pending,45590
+208,165,Medication,6319.67,Paid,46173
+209,319,Lab Test,3292,Paid,45140
+210,726,Medication,-7139.7195,Pending,46059
+211,437,Imaging,3224.22,Pending,45598
+212,1174,Medication,20,Pending,45479
+213,1652,Imaging,20,Pending,45929
+214,1221,Consultation,20,Paid,46132
+215,760,Consultation,20,Paid,45652
+216,1185,Imaging,4299.61,Pending,45598
+217,1198,Room,586,Pending,45053
+218,196,Imaging,20,Pending,45879
+219,1390,Lab Test,3107.28,Overdue,45598
+220,416,Imaging,254.52,Pending,44995
+221,1097,Lab Test,4889.3,Pending,45602
+222,1087,Lab Test,4815,Paid,45704
+223,25,Room,5132.26,Pending,46069
+224,634,Room,20,Paid,45814
+225,1272,Surgery,3636.23,Paid,45964
+226,989,Lab Test,3135.79,Overdue,45176
+227,109,Surgery,,Unpaid,46170
+228,1430,Medication,20,Paid,45589
+229,810,Medication,3173.95,Unpaid,45508
+230,364,Room,6692.35,Pending,45598
+231,447,Surgery,20,Pending,46216
+232,1344,Consultation,1002,Unpaid,45077
+233,1004,Imaging,3894.6053,Paid,45898
+234,1610,Room,6874.76,Paid,45598
+235,44,Imaging,2562.89,Pending,46037
+236,1518,Room,9293.01,Overdue,45598
+237,1745,Consultation,20,Paid,45471
+238,1236,Surgery,20,Overdue,45598
+239,222,Imaging,-6553,Paid,45097
+240,167,Imaging,20,Overdue,45803
+241,1164,Imaging,4884.6,Pending,45433
+242,77,Consultation,2616.4,Paid,45997
+243,873,Surgery,797,Pending,45211
+244,707,Imaging,2219.9984,Pending,46198
+245,333,Medication,20,Unpaid,46045
+246,804,Consultation,2545,Paid,45548
+247,1255,Room,3552.26,Overdue,45193
+248,1834,Imaging,2251.3341,Pending,45961
+249,1074,Imaging,1745,Pending,45162
+250,884,Consultation,4262.41,Paid,46103
+251,145,Imaging,8478.72,Paid,45598
+252,645,Imaging,2701.39,Paid,45598
+253,1186,Medication,5959.97,Unpaid,45032
+254,1559,Consultation,601,Pending,45787
+255,267,Room,20,Unpaid,46030
+256,915,Surgery,4859.9462,Pending,45598
+257,1088,Medication,2799.3964,Paid,45522
+258,1538,Imaging,6888.49,Pending,46112
+259,790,Lab Test,7476,Paid,46160
+260,1887,Room,6017.2545,Unpaid,45502
+261,179,Imaging,5952.07,Paid,45598
+262,1045,Lab Test,20,Paid,45607
+263,1454,Room,4833.5675,Pending,45598
+264,1010,Medication,6088.64,Paid,45543
+265,1073,Imaging,20,Pending,44947
+266,113,Room,3526,Overdue,46216
+267,1550,Imaging,-371.8154,Overdue,46183
+268,1491,Imaging,6582.5318,Unpaid,46094
+269,385,Room,632.01,Unpaid,45996
+270,1339,Consultation,1121.41,Pending,45583
+271,695,Imaging,-2107.85,Unpaid,45595
+272,1852,Imaging,,Paid,45598
+273,1212,Lab Test,6514.0168,Pending,45598
+274,1880,Imaging,8337.81,Pending,45824
+275,174,Surgery,20,Paid,45651
+276,1814,Room,20,Overdue,46152
+277,1150,Lab Test,7515.74,Paid,45846
+278,1459,Room,20,Paid,45833
+279,1530,Lab Test,1484.95,Overdue,45598
+280,1496,Surgery,9666.02,Pending,45847
+281,900,Medication,609.61,Pending,46176
+282,950,Imaging,20,Paid,45368
+283,229,Imaging,3642.42,Overdue,46187
+284,159,Medication,20,Paid,45957
+285,1701,Imaging,7211.75,Overdue,45764
+286,1416,Consultation,815.4238,Paid,45660
+287,656,Room,214.28,Overdue,46187
+288,1808,Room,3588.15,Paid,45277
+289,469,Imaging,2287,Pending,45070
+290,1012,Consultation,4257,Paid,45616
+291,1306,Imaging,5064.51,Paid,45002
+292,472,Consultation,2848.14,Paid,45227
+293,1433,Imaging,20,Overdue,45885
+294,1557,Medication,5691.5249,Unpaid,45598
+295,186,Surgery,1419.77,Pending,45598
+296,440,Medication,892.73,Paid,44948
+297,572,Imaging,3927.98,Pending,45416
+298,436,Lab Test,20,Paid,46144
+299,39,Medication,4672.63,Paid,46076
+300,908,Imaging,204364,Pending,46166
+301,987,Imaging,6865,Paid,45598
+302,626,Imaging,1998.8236,Pending,45703
+303,968,Lab Test,7474,Paid,45880
+304,1301,Surgery,5088.9287,Paid,45598
+305,1144,Lab Test,3420,Paid,45754
+306,337,Surgery,8950.09,Pending,45751
+307,1374,Consultation,3785.6382,Pending,45719
+308,402,Room,1944.898,Pending,45456
+309,1413,Consultation,3872,Paid,45750
+310,588,Imaging,1883.0925,Paid,44966
+311,1541,Room,4621,Overdue,45598
+312,1353,Imaging,7462,Unpaid,45504
+313,1440,Consultation,3475.9879,Paid,45598
+314,326,Consultation,3770.42,Pending,45598
+315,917,Room,5893.49,Pending,45944
+316,1124,Room,7061.7201,Paid,45598
+317,37,Imaging,2142.09,Paid,45853
+318,1325,Imaging,4017.01,Paid,45366
+319,1614,Lab Test,5906.79,Paid,45359
+320,814,Medication,4489.86,Paid,45148
+321,258,Imaging,20,Paid,46132
+322,732,Surgery,6448,Unpaid,45598
+323,1703,Surgery,5068.64,Paid,45283
+324,513,Surgery,-5281.85,Pending,45886
+325,1326,Consultation,20,Paid,45598
+326,390,Imaging,3957.17,Overdue,45916
+327,109,Medication,6030.04,Pending,46106
+328,733,Imaging,858.2582,Paid,45598
+329,105,Imaging,1638.3664,Unpaid,45417
+330,431,Medication,6081,Paid,46023
+331,1309,Room,1498.6921,Paid,45830
+332,118,Imaging,2874,Pending,45598
+333,611,Imaging,396.14,Overdue,45146
+334,311,Surgery,8959.82,Pending,45955
+335,1778,Surgery,5061.87,Pending,45598
+336,363,Medication,2733.82,Overdue,45213
+337,226,Room,2172.87,Unpaid,45539
+338,1121,Medication,20,Overdue,46048
+339,1409,Room,3169.7,Paid,45872
+340,1051,Consultation,549517,Paid,45579
+341,1775,Room,1070.5577,Overdue,46127
+342,79,Medication,3816.62,Pending,45888
+343,1313,Medication,2397.8547,Paid,45598
+344,1500,Consultation,7640.35,Paid,46135
+345,1300,Surgery,1589.9,Pending,46127
+346,1691,Imaging,5831.4676,Pending,45598
+347,385,Consultation,7682.07,Paid,45844
+348,1751,Imaging,2368.61,Overdue,45347
+349,827,Imaging,1734,Paid,45385
+350,1599,Lab Test,6268.11,Paid,45742
+351,1272,Consultation,20,Pending,45835
+352,1176,Consultation,4791.78,Paid,45882
+353,1779,Medication,20,Overdue,45323
+354,426,Lab Test,7167.23,Paid,45563
+355,257,Consultation,2744,Pending,46088
+356,185,Room,3227.67,Paid,45348
+357,758,Lab Test,1327.25,Unpaid,44963
+358,1324,Surgery,20,Paid,45028
+359,1121,Room,,Pending,45485
+360,1534,Room,,Pending,45598
+361,1079,Room,13126.3058,Overdue,45548
+362,522,Lab Test,1069.4546,Pending,45598
+363,1117,Lab Test,1559.92,Paid,45613
+364,1602,Lab Test,,Paid,46221
+365,10,Lab Test,2971.5183,Pending,45924
+366,1459,Lab Test,8225.6537,Pending,45598
+367,83,Imaging,6530.41,Paid,45598
+368,403,Imaging,20,Paid,45945
+369,494,Consultation,7112.36,Paid,45194
+370,1667,Imaging,5548.37,Pending,45948
+371,336,Imaging,4944.16,Pending,45247
+372,1048,Room,1447.2775,Paid,45598
+373,1042,Consultation,1670.27,Pending,46050
+374,1689,Room,3911.2017,Paid,46103
+375,1858,Medication,1840.51,Pending,46212
+376,956,Imaging,7437.9,Paid,45598
+377,1452,Medication,1712.13,Paid,45499
+378,317,Consultation,20,Overdue,45598
+379,1182,Surgery,20,Unpaid,45598
+380,1304,Medication,20,Overdue,46155
+381,980,Imaging,2709.96,Paid,45150
+382,454,Surgery,4148.2,Paid,45598
+383,895,Consultation,3661.4,Paid,45640
+384,1219,Surgery,4883,Paid,44967
+385,809,Consultation,-2743,Paid,45492
+386,928,Room,2849.28,Unpaid,45598
+387,713,Imaging,8755.58,Pending,45981
+388,487,Imaging,7116,Pending,45598
+389,1198,Room,4724.9,Paid,45721
+390,899,Consultation,6250.01,Overdue,45598
+391,1477,Room,20,Pending,46169
+392,510,Imaging,1032.38,Pending,45615
+393,1176,Room,2203.3895,Unpaid,45598
+394,990,Imaging,1067.7,Paid,45001
+395,344,Medication,20,Pending,45915
+396,1620,Surgery,4761.63,Unpaid,46108
+397,637,Imaging,7657.24,Paid,45837
+398,1658,Imaging,3461.57,Paid,45377
+399,528,Imaging,5444.55,Paid,45419
+400,1690,Surgery,3372,Paid,45740
+401,1513,Surgery,2175.08,Pending,45766
+402,128,Imaging,6257.59,Pending,45598
+403,734,Surgery,20,Overdue,44938
+404,652,Room,20,Pending,45328
+405,1749,Surgery,20,Overdue,45813
+406,1132,Consultation,6060.76,Pending,45598
+407,506,Lab Test,3761.63,Pending,45346
+408,653,Lab Test,4629.61,Paid,46184
+409,1080,Imaging,8530.769,Paid,44937
+410,1776,Medication,20,Pending,46039
+411,783,Room,7112.51,Paid,46195
+412,1791,Lab Test,2311.03,Paid,45598
+413,1053,Surgery,1855,Paid,45744
+414,1368,Consultation,3743.6611,Pending,45598
+415,266,Room,4213.21,Paid,45481
+416,555,Imaging,2868.37,Unpaid,45076
+417,655,Consultation,5331,Unpaid,46102
+418,254,Surgery,3755.73,Pending,45370
+419,684,Consultation,2902.0051,Pending,45917
+420,792,Room,2251.15,Paid,45452
+421,1665,Imaging,421503.94,Unpaid,45598
+422,1635,Imaging,20,Pending,45598
+423,1551,Room,276.61,Overdue,45961
+424,915,Lab Test,2397.65,Pending,45598
+425,1868,Medication,5134.63,Paid,45497
+426,752,Room,9928.55,Overdue,45199
+427,1108,Room,3022.02,Unpaid,46209
+428,1534,Medication,20,Unpaid,46046
+429,529,Imaging,-1129.26,Unpaid,45632
+430,362,Imaging,5477,Pending,45684
+431,1681,Imaging,-589,Pending,46188
+432,631,Medication,20,Paid,44973
+433,406,Imaging,5461.0067,Paid,45630
+434,1452,Imaging,4895,Pending,46078
+435,1723,Imaging,20,Unpaid,45681
+436,1767,Imaging,815.02,Paid,45950
+437,1336,Medication,7234,Pending,45598
+438,1398,Lab Test,6058.53,Overdue,45342
+439,1291,Room,20,Pending,45598
+440,888,Room,20,Paid,46045
+441,1479,Room,4305.55,Pending,45244
+442,1712,Imaging,2612,Paid,45603
+443,867,Imaging,4045.2257,Overdue,45143
+444,202,Lab Test,,Paid,45188
+445,875,Room,31559.59,Paid,45836
+446,1151,Lab Test,2203.56,Pending,45068
+447,1260,Consultation,802.82,Paid,45598
+448,1776,Medication,910.29,Paid,45406
+449,19,Medication,5194,Overdue,45598
+450,1355,Surgery,3932.21,Paid,46185
+451,1166,Surgery,20,Paid,45598
+452,1425,Imaging,5675.31,Pending,45598
+453,317,Medication,2449.7898,Paid,45525
+454,1694,Imaging,5813.5,Paid,45302
+455,749,Imaging,456,Paid,45662
+456,737,Surgery,722.94,Paid,45474
+457,663,Lab Test,4255.1369,Unpaid,46040
+458,937,Medication,210.62,Pending,45179
+459,271,Medication,2675.36,Unpaid,45598
+460,269,Room,20,Paid,45598
+461,1853,Surgery,2325.89,Pending,45089
+462,852,Lab Test,3404.44,Unpaid,45679
+463,691,Medication,3545.77,Pending,45598
+464,1047,Medication,2405.76,Paid,46217
+465,1052,Medication,4500.05,Pending,45527
+466,699,Consultation,3943.4,Paid,45598
+467,1557,Room,3231.9,Overdue,45782
+468,1450,Consultation,1622.4484,Pending,45259
+469,250,Room,6704.73,Unpaid,46215
+470,1855,Room,4658.86,Pending,45598
+471,1680,Medication,391.67,Overdue,45598
+472,1287,Surgery,5447,Paid,44985
+473,1456,Room,-6126.48,Overdue,45598
+474,1402,Medication,3255.31,Unpaid,45987
+475,1314,Imaging,3454.74,Overdue,45598
+476,1787,Lab Test,20,Paid,45525
+477,1530,Room,969.68,Paid,46206
+478,174,Lab Test,6031.0832,Pending,45598
+479,112,Surgery,115213.0405,Overdue,45598
+480,548,Medication,3020.4742,Paid,45598
+481,945,Medication,924.14,Paid,45447
+482,1742,Surgery,4192.45,Paid,45592
+483,849,Imaging,234061,Paid,45586
+484,816,Consultation,4761.42,Paid,44988
+485,643,Room,81.92,Unpaid,45598
+486,1126,Medication,3820.11,Paid,45577
+487,1510,Imaging,8230,Paid,45491
+488,381,Imaging,5745.47,Paid,44929
+489,987,Room,3779.99,Overdue,45371
+490,1253,Imaging,20,Paid,45971
+491,1148,Room,2751.9306,Unpaid,45598
+492,1748,Room,8439.1,Pending,46232
+493,350,Imaging,7455.8205,Unpaid,45598
+494,364,Surgery,4884.25,Paid,45459
+495,226,Room,1342.0088,Unpaid,45598
+496,251,Room,3656.84,Paid,45598
+497,1496,Room,5820.44,Paid,45972
+498,727,Medication,6321.62,Unpaid,46217
+499,652,Consultation,4438,Paid,45728
+500,1447,Surgery,6065.12,Pending,45128
+501,1055,Medication,3324,Unpaid,45598
+502,613,Consultation,-3191.28,Paid,45254
+503,1312,Surgery,2123.25,Pending,45425
+504,913,Consultation,,Unpaid,45527
+505,1462,Consultation,6501.02,Overdue,45899
+506,956,Room,5625.33,Overdue,46036
+507,831,Lab Test,20,Pending,45974
+508,1576,Medication,20,Unpaid,45598
+509,340,Consultation,6810.92,Paid,45598
+510,123,Consultation,4029.72,Unpaid,45468
+511,277,Medication,4146.94,Paid,45337
+512,789,Imaging,4079.3439,Paid,45714
+513,1848,Surgery,8754.92,Paid,45529
+514,1067,Room,2161.15,Paid,45262
+515,1181,Surgery,6849.9,Pending,44958
+516,1667,Medication,4200.8211,Paid,45197
+517,1653,Surgery,20,Pending,45598
+518,1313,Room,1025.44,Overdue,46145
+519,1843,Lab Test,1678.91,Pending,45768
+520,1268,Lab Test,6779.32,Paid,45130
+521,447,Medication,7181.89,Paid,45397
+522,398,Lab Test,4561.56,Overdue,46018
+523,762,Consultation,1931.68,Paid,45174
+524,1019,Imaging,767,Paid,46076
+525,1547,Lab Test,6912.74,Overdue,44964
+526,1511,Medication,20,Paid,46090
+527,1738,Surgery,3188.33,Paid,45619
+528,947,Medication,10593.41,Paid,45708
+529,34,Room,1940.64,Overdue,45688
+530,1286,Lab Test,20,Overdue,45931
+531,1254,Surgery,20,Overdue,45697
+532,1370,Imaging,-10712,Pending,44993
+533,889,Medication,4546,Unpaid,46172
+534,936,Imaging,893,Pending,45020
+535,1895,Room,-2932.59,Paid,45598
+536,1670,Room,75556.63,Overdue,45598
+537,694,Imaging,20,Pending,45179
+538,786,Medication,5864.3523,Pending,45598
+539,1772,Imaging,3601.44,Pending,45476
+540,1062,Consultation,5614.95,Pending,45379
+541,86,Imaging,3519.65,Paid,45632
+542,300,Consultation,3893.74,Pending,46120
+543,1440,Lab Test,20,Unpaid,45956
+544,431,Lab Test,6223.54,Overdue,45078
+545,503,Imaging,235.07,Overdue,45923
+546,797,Room,1003.75,Pending,45598
+547,1049,Consultation,1916.38,Unpaid,45034
+548,623,Imaging,20,Paid,45761
+549,1559,Consultation,1752,Paid,45845
+550,1105,Surgery,1543.45,Paid,45942
+551,1831,Consultation,2366.5,Pending,46224
+552,1101,Lab Test,20,Pending,45644
+553,1389,Consultation,6283,Paid,45985
+554,505,Surgery,469416.97,Paid,45598
+555,1131,Medication,908,Paid,46073
+556,1043,Imaging,1755.36,Pending,45596
+557,1397,Imaging,6014.445,Pending,45583
+558,43,Medication,2727.5749,Pending,45702
+559,1794,Imaging,20,Paid,46083
+560,432,Surgery,3249.2244,Unpaid,45598
+561,729,Surgery,-236.47,Paid,45098
+562,296,Imaging,1376.3805,Paid,45699
+563,1273,Consultation,3348.13,Overdue,45967
+564,552,Imaging,6665.63,Paid,45598
+565,144,Medication,9569.97,Unpaid,45598
+566,55,Imaging,7587.85,Paid,45598
+567,1331,Room,3284.43,Paid,45598
+568,755,Imaging,10272.05,Overdue,45858
+569,1860,Consultation,,Pending,45598
+570,1701,Imaging,560.93,Overdue,45284
+571,688,Surgery,3783.65,Paid,45456
+572,1291,Medication,1529.2501,Paid,45598
+573,266,Imaging,20,Overdue,46180
+574,643,Imaging,20,Paid,45241
+575,1568,Consultation,3058.3,Pending,45812
+576,1652,Consultation,5762.62,Unpaid,45878
+577,657,Room,6705,Pending,45598
+578,291,Room,20,Paid,45734
+579,1797,Consultation,2590.22,Paid,45414
+580,1640,Consultation,4959.77,Paid,45705
+581,320,Consultation,3955.58,Pending,45598
+582,555,Medication,5583.64,Unpaid,45637
+583,1741,Lab Test,2195.92,Pending,45935
+584,1829,Medication,7318.7457,Pending,45326
+585,334,Room,3487.27,Paid,45828
+586,722,Imaging,5773.1724,Paid,45609
+587,1136,Lab Test,2357.68,Unpaid,45957
+588,1129,Consultation,3675.17,Overdue,45441
+589,1481,Consultation,20,Unpaid,45598
+590,1390,Imaging,989.7342,Pending,46154
+591,1479,Room,2877.6089,Paid,45598
+592,1398,Imaging,3800.18,Overdue,45138
+593,1223,Consultation,11543.6,Paid,45598
+594,739,Imaging,2354.3,Paid,45172
+595,394,Room,20,Pending,46015
+596,948,Imaging,8607.45,Overdue,45598
+597,1081,Room,6736.51,Paid,45598
+598,24,Room,30.46,Pending,45955
+599,1768,Consultation,4896,Unpaid,45384
+600,1701,Consultation,6005.62,Overdue,45495
+601,406,Imaging,3991,Pending,45598
+602,1001,Room,4477,Overdue,45203
+603,1031,Imaging,1603.2315,Unpaid,45165
+604,1878,Lab Test,,Overdue,45598
+605,1130,Imaging,2025.94,Paid,45741
+606,847,Medication,20,Pending,45887
+607,1472,Medication,4088.8,Paid,44970
+608,1832,Medication,20,Paid,46008
+609,1353,Consultation,6540.4825,Paid,45598
+610,1804,Lab Test,107.54,Overdue,45598
+611,459,Imaging,20,Paid,45105
+612,1048,Consultation,20,Unpaid,45796
+613,604,Consultation,3375.57,Paid,45090
+614,107,Consultation,-4059.5234,Pending,45598
+615,1169,Lab Test,20,Pending,45839
+616,449,Imaging,282.8352,Paid,45896
+617,391,Lab Test,-3475.79,Pending,46037
+618,1426,Imaging,6416.68,Unpaid,45598
+619,262,Imaging,20,Paid,46087
+620,742,Medication,4637.53,Overdue,45989
+621,1085,Medication,20,Pending,45598
+622,344,Surgery,4448,Unpaid,45305
+623,525,Medication,5767.38,Paid,45598
+624,1671,Imaging,5072.6198,Paid,45881
+625,1331,Room,6483.1933,Overdue,45601
+626,296,Lab Test,6283.23,Unpaid,46065
+627,1411,Medication,9040.8,Pending,46066
+628,679,Lab Test,3825.86,Pending,45459
+629,388,Imaging,452483.7079,Unpaid,45598
+630,1896,Imaging,667.7027,Paid,45775
+631,1754,Medication,2883.97,Pending,45907
+632,129,Room,3155,Pending,45406
+633,960,Lab Test,37164.66,Paid,45302
+634,1077,Medication,20,Paid,45697
+635,1179,Consultation,6107.9,Pending,45052
+636,470,Room,710.2,Paid,45595
+637,1780,Imaging,2297.513,Paid,45316
+638,1645,Imaging,8254,Paid,45598
+639,1469,Room,5216,Paid,46084
+640,718,Consultation,8721,Pending,45598
+641,642,Imaging,3861.59,Pending,45598
+642,819,Imaging,5166.4782,Pending,45310
+643,1502,Imaging,2777.99,Paid,45640
+644,648,Imaging,953.91,Paid,44931
+645,1061,Imaging,5155.38,Overdue,45598
+646,1570,Imaging,2192.2964,Paid,45300
+647,1199,Medication,5433.57,Paid,45598
+648,47,Medication,1788.5929,Pending,44994
+649,621,Imaging,2973.85,Paid,45698
+650,695,Imaging,3214.1525,Paid,45374
+651,76,Imaging,673089.5075,Paid,45235
+652,1533,Imaging,2226.95,Paid,45899
+653,1711,Room,7060.9704,Paid,46165
+654,1071,Imaging,785,Pending,45567
+655,509,Consultation,4309.57,Overdue,45245
+656,241,Room,1437.2,Pending,45414
+657,383,Medication,6847.2375,Paid,45249
+658,879,Imaging,1044.01,Paid,45598
+659,1478,Lab Test,1349.8018,Paid,44969
+660,937,Imaging,20,Paid,45842
+661,170,Medication,3809.12,Overdue,45446
+662,1307,Lab Test,5273.1461,Pending,45989
+663,966,Medication,4949.3876,Paid,45705
+664,276,Consultation,3067.2861,Paid,44943
+665,1862,Imaging,1518.38,Unpaid,45735
+666,688,Imaging,2663.9602,Paid,44984
+667,1718,Medication,2778.41,Paid,45088
+668,467,Imaging,4257.8313,Pending,45687
+669,1579,Lab Test,4051.5584,Pending,45912
+670,122,Consultation,8719.16,Pending,45795
+671,952,Imaging,3618.91,Overdue,44998
+672,1641,Lab Test,4582.4,Paid,45598
+673,254,Medication,3714.37,Paid,45655
+674,744,Room,2519.7993,Unpaid,45343
+675,1372,Imaging,,Pending,45148
+676,1344,Surgery,2238.0182,Overdue,46220
+677,719,Lab Test,3325.3482,Paid,46149
+678,209,Imaging,6977.81,Pending,45134
+679,1571,Lab Test,2043.9217,Paid,45448
+680,35,Imaging,4662.03,Paid,45598
+681,496,Medication,20,Overdue,45538
+682,748,Consultation,2943.97,Overdue,46207
+683,637,Lab Test,2023.64,Paid,45598
+684,696,Surgery,3861,Paid,45217
+685,1713,Surgery,2791.29,Paid,45683
+686,1620,Room,3924.55,Paid,45918
+687,563,Imaging,2364,Overdue,45752
+688,1166,Imaging,4659.0041,Overdue,45957
+689,1501,Lab Test,20,Paid,45466
+690,200,Imaging,3834.24,Paid,45040
+691,1628,Consultation,689,Paid,44974
+692,1607,Medication,7003.6,Unpaid,46041
+693,23,Medication,640,Paid,45353
+694,1472,Surgery,6485.66,Paid,45598
+695,682,Surgery,3465.4,Unpaid,45598
+696,1696,Imaging,20,Paid,45836
+697,811,Room,871.2,Pending,45737
+698,597,Room,6043.4031,Paid,44999
+699,1458,Imaging,5873.03,Pending,44993
+700,141,Consultation,-20,Unpaid,44975
+701,368,Lab Test,8188.5672,Paid,45598
+702,1328,Medication,3426,Paid,46039
+703,864,Imaging,-6154.537,Pending,45533
+704,750,Imaging,20,Paid,45598
+705,1745,Imaging,2132.153,Unpaid,45563
+706,21,Imaging,4747.71,Paid,45273
+707,423,Surgery,2560.51,Paid,45854
+708,248,Lab Test,20,Pending,45031
+709,1139,Imaging,2927.65,Paid,46100
+710,1403,Consultation,20,Paid,45258
+711,1867,Room,287.92,Pending,45081
+712,1072,Room,20,Unpaid,45805
+713,1672,Consultation,6897.67,Pending,45113
+714,1013,Imaging,7839,Paid,45637
+715,1242,Surgery,4524.69,Pending,45587
+716,237,Lab Test,2809.79,Pending,45964
+717,1262,Consultation,3585.0163,Pending,45607
+718,1323,Consultation,6895.56,Paid,45439
+719,505,Medication,20,Paid,45804
+720,1192,Imaging,274.69,Pending,45598
+721,707,Lab Test,6512.1272,Paid,45511
+722,1588,Medication,7136.81,Overdue,45598
+723,1029,Room,5269.16,Paid,45126
+724,1538,Consultation,365.0853,Unpaid,45598
+725,225,Room,6468.65,Pending,45939
+726,59,Surgery,7584.2981,Overdue,45611
+727,742,Imaging,,Overdue,45664
+728,774,Imaging,20,Paid,45538
+729,936,Medication,3874,Pending,45189
+730,562,Room,5255.72,Paid,45043
+731,547,Surgery,1953.15,Unpaid,45598
+732,118,Imaging,4060.03,Pending,45336
+733,690,Consultation,1959.62,Paid,45598
+734,244,Room,915.22,Paid,46057
+735,779,Imaging,8031.77,Paid,45808
+736,1878,Medication,4145.21,Paid,46022
+737,1396,Lab Test,182.06,Paid,45598
+738,25,Imaging,20,Overdue,44956
+739,460,Medication,917,Pending,45598
+740,896,Room,933.28,Pending,45598
+741,350,Medication,3939.59,Overdue,45189
+742,470,Imaging,4956.67,Pending,45528
+743,1746,Surgery,4953.46,Paid,45136
+744,898,Imaging,1249.664,Pending,45705
+745,909,Imaging,6262,Unpaid,45642
+746,42,Lab Test,7183.5329,Paid,45598
+747,1507,Lab Test,136005,Pending,45607
+748,883,Imaging,403.79,Pending,45909
+749,1696,Imaging,3800.85,Pending,45854
+750,1679,Consultation,9980.23,Pending,45500
+751,319,Medication,325,Pending,45963
+752,1687,Imaging,1921.5101,Overdue,45519
+753,1484,Lab Test,3672.3022,Paid,45598
+754,1452,Room,5124.99,Unpaid,45893
+755,889,Room,20,Paid,45493
+756,528,Imaging,7417.66,Paid,45183
+757,338,Imaging,7377,Pending,45307
+758,1644,Surgery,2225.62,Unpaid,45285
+759,737,Room,11619.85,Paid,45598
+760,1333,Imaging,7183.12,Overdue,44962
+761,982,Medication,7023.35,Overdue,45258
+762,1415,Consultation,7062.66,Pending,45698
+763,147,Consultation,6976.15,Overdue,45371
+764,228,Medication,3434.27,Unpaid,45675
+765,1623,Imaging,3137.12,Unpaid,45816
+766,942,Lab Test,669,Pending,45458
+767,1075,Imaging,1767.88,Paid,45848
+768,1262,Room,2567.31,Pending,45093
+769,71,Room,3696.3802,Pending,46229
+770,1766,Room,8294.89,Paid,45220
+771,519,Lab Test,20,Unpaid,45598
+772,968,Imaging,7534.8028,Pending,45598
+773,1382,Consultation,464.37,Unpaid,45598
+774,1575,Imaging,3186.4405,Unpaid,45979
+775,1803,Room,1326.81,Paid,45521
+776,985,Medication,9062.83,Pending,45359
+777,106,Room,-2000,Paid,45764
+778,208,Consultation,5064.3438,Paid,45528
+779,19,Consultation,5219.8,Paid,46109
+780,700,Lab Test,20,Paid,46047
+781,1800,Imaging,3209.69,Unpaid,45989
+782,142,Imaging,7112.98,Unpaid,44963
+783,49,Lab Test,880,Pending,45803
+784,237,Lab Test,5986.9,Overdue,45598
+785,269,Consultation,2506.76,Paid,45102
+786,1389,Room,6990.9621,Paid,45551
+787,670,Imaging,8742.49,Pending,45800
+788,713,Room,20,Overdue,45980
+789,1523,Consultation,20,Paid,44964
+790,1652,Imaging,2184.47,Unpaid,46062
+791,304,Imaging,7896,Pending,45598
+792,1553,Medication,5097.4,Overdue,45316
+793,1497,Lab Test,20,Pending,45498
+794,1154,Lab Test,5536.76,Pending,45460
+795,681,Surgery,758.8,Pending,45122
+796,623,Surgery,6111.5958,Pending,45598
+797,307,Medication,5116.89,Pending,45884
+798,1145,Imaging,745.66,Pending,45098
+799,1173,Lab Test,3302.14,Pending,46198
+800,1571,Lab Test,,Paid,45987
+801,1651,Lab Test,20,Paid,45329
+802,1892,Imaging,4403.33,Pending,46041
+803,390,Imaging,179.302,Paid,46167
+804,992,Lab Test,3451.44,Pending,45505
+805,157,Lab Test,4873,Unpaid,46197
+806,905,Lab Test,9539.51,Paid,44998
+807,1411,Consultation,3421,Paid,45544
+808,312,Lab Test,7896.58,Pending,45100
+809,1794,Surgery,978.51,Pending,46106
+810,1338,Imaging,2014.94,Unpaid,45857
+811,1899,Lab Test,5261.1758,Pending,45636
+812,1823,Consultation,4105,Paid,45619
+813,133,Imaging,2515,Paid,45641
+814,1875,Lab Test,2433.4567,Paid,45598
+815,1374,Lab Test,7499.88,Paid,45598
+816,1226,Consultation,2634.67,Paid,45203
+817,1764,Imaging,437.45,Pending,45598
+818,980,Imaging,935.37,Unpaid,45598
+819,1218,Imaging,5509.7,Paid,45598
+820,1670,Lab Test,10270,Paid,45598
+821,1587,Surgery,1928.05,Overdue,45598
+822,492,Room,9945.88,Paid,45084
+823,273,Imaging,3467.48,Overdue,45920
+824,1129,Consultation,2660.56,Overdue,45598
+825,249,Room,769.17,Paid,45598
+826,1208,Imaging,2906,Overdue,45598
+827,1660,Lab Test,,Paid,45817
+828,1786,Lab Test,991,Paid,45441
+829,110,Surgery,,Pending,45604
+830,1135,Lab Test,8798.3501,Paid,45247
+831,1382,Surgery,6693.16,Pending,45598
+832,22,Consultation,4314.8,Paid,45556
+833,81,Imaging,3067.95,Unpaid,45521
+834,455,Medication,3483,Overdue,45954
+835,30,Medication,1169.2732,Pending,45767
+836,552,Room,-4922,Paid,45016
+837,1543,Lab Test,5652.2423,Paid,46054
+838,205,Surgery,2713,Paid,45268
+839,1082,Imaging,4477.21,Pending,45600
+840,1435,Medication,20,Paid,45459
+841,1051,Imaging,2553.7136,Paid,45113
+842,1182,Medication,40,Paid,45598
+843,372,Imaging,4952.17,Paid,46115
+844,194,Imaging,6486,Paid,45598
+845,1721,Lab Test,,Pending,45141
+846,1000,Lab Test,1613.06,Paid,45598
+847,1360,Consultation,116.3,Pending,45598
+848,1042,Imaging,-2244,Paid,45534
+849,1594,Imaging,1402.06,Paid,45598
+850,351,Lab Test,4794,Pending,45321
+851,1315,Consultation,20,Paid,46172
+852,1843,Imaging,20,Overdue,46091
+853,677,Room,2460.66,Pending,45598
+854,1329,Lab Test,5679.52,Paid,46000
+855,720,Imaging,417.63,Unpaid,45848
+856,161,Lab Test,6047,Pending,45151
+857,113,Room,4596.01,Pending,45598
+858,1018,Room,8140.39,Paid,45598
+859,1263,Lab Test,1093.24,Paid,44977
+860,372,Medication,20,Unpaid,45598
+861,1522,Consultation,5295.6253,Pending,45960
+862,1156,Surgery,4339.6236,Paid,45598
+863,854,Surgery,4107.49,Pending,46013
+864,1689,Imaging,356.52,Paid,45639
+865,1185,Imaging,5825.45,Unpaid,46127
+866,464,Room,1599.72,Pending,45958
+867,812,Lab Test,4106,Pending,45525
+868,1633,Imaging,2121,Pending,45011
+869,20,Imaging,4563.14,Pending,45352
+870,28,Lab Test,20,Overdue,45653
+871,380,Room,4999.03,Paid,46074
+872,296,Lab Test,273638.3889,Pending,45027
+873,1314,Imaging,3847.93,Paid,45167
+874,861,Lab Test,8431.69,Pending,45352
+875,1553,Imaging,4121.48,Paid,45742
+876,1604,Imaging,6256.26,Unpaid,45598
+877,1421,Medication,3777.2504,Paid,46047
+878,1721,Imaging,5988.1966,Paid,45461
+879,1709,Medication,20,Paid,45480
+880,246,Consultation,-3598.83,Unpaid,46071
+881,1520,Imaging,5959.7,Pending,45099
+882,1326,Surgery,3921.28,Paid,45598
+883,1734,Lab Test,4653,Paid,45941
+884,1342,Consultation,5922.4928,Overdue,45598
+885,501,Imaging,4969.73,Paid,45255
+886,1112,Imaging,2489,Overdue,45893
+887,197,Imaging,1239,Unpaid,45733
+888,1861,Consultation,20,Paid,45508
+889,1069,Imaging,3706.56,Paid,45726
+890,417,Lab Test,6913.59,Paid,45480
+891,986,Consultation,3825.18,Pending,45197
+892,1297,Consultation,3245.74,Pending,45475
+893,827,Imaging,3929,Pending,45598
+894,167,Lab Test,-2336.87,Overdue,45090
+895,1143,Imaging,4084.9,Paid,46184
+896,522,Imaging,2285.11,Paid,45598
+897,38,Lab Test,803.36,Overdue,46176
+898,542,Surgery,3274,Pending,45123
+899,1375,Room,3208.69,Paid,45529
+900,435,Imaging,9126,Pending,46089
+901,1592,Medication,1082.93,Paid,44932
+902,1137,Imaging,3021.67,Paid,45598
+903,1149,Room,136500,Pending,45227
+904,1754,Imaging,-2157,Pending,45598
+905,1208,Lab Test,5039.32,Overdue,45598
+906,377,Imaging,10214,Paid,45598
+907,1394,Consultation,2537.52,Pending,45598
+908,1638,Medication,5047.68,Overdue,45598
+909,129,Consultation,20,Unpaid,45917
+910,805,Surgery,2319,Paid,45199
+911,590,Imaging,8165.72,Unpaid,45539
+912,23,Consultation,3335.06,Pending,46047
+913,1518,Surgery,500702,Paid,45598
+914,865,Room,1631.75,Unpaid,45598
+915,556,Imaging,4272.6716,Unpaid,46142
+916,1523,Imaging,8398.3287,Unpaid,45598
+917,1505,Medication,20,Unpaid,45669
+918,48,Consultation,10059.63,Pending,45598
+919,1878,Medication,20,Unpaid,45324
+920,862,Room,2043.4945,Paid,45034
+921,92,Lab Test,992.25,Paid,45765
+922,1320,Surgery,2682.62,Paid,45598
+923,1889,Medication,953.29,Paid,46160
+924,1113,Imaging,725.84,Overdue,45598
+925,338,Surgery,20,Paid,45481
+926,373,Imaging,5432.1609,Overdue,45729
+927,167,Lab Test,2786.13,Unpaid,45598
+928,1720,Room,100073.44,Paid,45598
+929,1080,Lab Test,4347,Pending,45598
+930,1445,Consultation,20,Unpaid,45622
+931,799,Imaging,4419.12,Overdue,45764
+932,637,Consultation,3218.69,Paid,45598
+933,752,Room,3310.89,Paid,45371
+934,977,Imaging,5057.5003,Pending,45237
+935,118,Lab Test,8431,Pending,46156
+936,666,Lab Test,4468.92,Unpaid,45396
+937,1218,Medication,2900,Unpaid,46077
+938,1364,Medication,20,Overdue,45032
+939,1708,Lab Test,20,Paid,45598
+940,1215,Imaging,3883.65,Paid,45814
+941,964,Imaging,20,Pending,45453
+942,1865,Surgery,20,Overdue,45148
+943,1193,Room,2447.3887,Pending,45630
+944,1768,Medication,4218.45,Paid,45707
+945,87,Imaging,5732.9114,Pending,45572
+946,1707,Room,6683.75,Paid,46194
+947,1154,Imaging,6127.14,Overdue,46205
+948,786,Imaging,6207.73,Overdue,45817
+949,365,Lab Test,20,Paid,44986
+950,807,Lab Test,152560.65,Paid,46139
+951,189,Imaging,5239.51,Pending,46028
+952,1383,Surgery,3639.12,Paid,45341
+953,732,Imaging,3034.5522,Paid,45598
+954,1453,Surgery,3584.27,Paid,45297
+955,1403,Imaging,4236.6,Paid,45184
+956,1663,Consultation,3269,Overdue,45511
+957,737,Surgery,961.1619,Overdue,45682
+958,1694,Imaging,20,Paid,45958
+959,1410,Room,2887.92,Overdue,45956
+960,1613,Consultation,3672.4483,Unpaid,45707
+961,133,Consultation,,Paid,46127
+962,1569,Room,6358.7632,Pending,45338
+963,1503,Room,6891.82,Paid,45640
+964,1309,Medication,3187.93,Pending,45598
+965,777,Medication,3209.41,Overdue,45598
+966,584,Imaging,5219.39,Paid,45849
+967,676,Surgery,4779.6451,Unpaid,45571
+968,1493,Consultation,2172,Paid,45598
+969,887,Imaging,5477.04,Unpaid,45473
+970,1188,Lab Test,3060.8768,Paid,45598
+971,458,Room,3124.67,Pending,45813
+972,989,Room,4801,Paid,45910
+973,413,Room,2596.5,Paid,45598
+974,170,Lab Test,3784,Paid,44990
+975,904,Consultation,4392.63,Paid,46207
+976,1403,Imaging,5951.54,Unpaid,45598
+977,856,Imaging,5744,Pending,45667
+978,397,Surgery,4301.1334,Paid,45395
+979,1274,Room,20,Paid,46204
+980,1511,Surgery,4230.05,Paid,45371
+981,265,Imaging,4693.66,Pending,45643
+982,1078,Consultation,5302.79,Pending,45598
+983,516,Surgery,631.93,Paid,45448
+984,304,Lab Test,20,Paid,45598
+985,145,Lab Test,5918.51,Paid,45990
+986,797,Imaging,20,Pending,45598
+987,617,Room,7167,Paid,45791
+988,170,Consultation,1764.04,Overdue,45907
+989,149,Imaging,418.48,Pending,44985
+990,1762,Imaging,4548.87,Unpaid,45595
+991,96,Imaging,5348.5283,Paid,44932
+992,863,Imaging,258487,Paid,45004
+993,1389,Imaging,-5004.83,Paid,45105
+994,258,Room,1377,Paid,45598
+995,597,Surgery,20,Paid,45598
+996,340,Surgery,2331.01,Unpaid,45598
+997,1032,Consultation,63,Paid,46057
+998,1829,Consultation,-4797.65,Pending,44939
+999,19,Imaging,6122.74,Pending,45598
+1000,649,Room,4018.09,Paid,45598
+1001,955,Imaging,174858.28,Pending,45680
+1002,271,Consultation,2569,Paid,45624
+1003,1539,Surgery,6441.05,Unpaid,46018
+1004,1342,Imaging,20,Paid,45598
+1005,1738,Imaging,20,Paid,45495
+1006,1397,Lab Test,8980,Pending,45593
+1007,240,Medication,20,Pending,45598
+1008,988,Lab Test,5093.1105,Paid,45598
+1009,215,Surgery,5710.37,Paid,45725
+1010,240,Consultation,20,Pending,45809
+1011,98,Lab Test,20,Paid,45598
+1012,1664,Medication,7294.14,Paid,44954
+1013,273,Imaging,,Overdue,46140
+1014,1388,Room,663.11,Paid,45598
+1015,1361,Room,1937.3716,Paid,45598
+1016,288,Medication,588.55,Pending,46179
+1017,314,Imaging,5078.8,Paid,45598
+1018,77,Imaging,20,Unpaid,45276
+1019,823,Medication,,Pending,45410
+1020,92,Room,6969.07,Pending,45598
+1021,30,Imaging,5063.39,Pending,45598
+1022,12,Imaging,1243.94,Unpaid,46151
+1023,592,Lab Test,5989.57,Paid,45014
+1024,863,Room,,Pending,45421
+1025,1625,Lab Test,6837.02,Overdue,45598
+1026,65,Lab Test,6035.4263,Pending,46006
+1027,1632,Surgery,2139.71,Paid,45214
+1028,1419,Room,6566,Paid,45094
+1029,129,Surgery,4003.3194,Pending,45598
+1030,1858,Surgery,1704.84,Pending,45495
+1031,1825,Room,4371.2,Paid,45598
+1032,1066,Surgery,20,Paid,45048
+1033,1281,Room,6002,Pending,46140
+1034,1384,Imaging,-5612.36,Paid,45126
+1035,761,Imaging,3861.08,Pending,44943
+1036,1646,Imaging,20,Pending,45691
+1037,1564,Imaging,6963,Paid,45550
+1038,250,Imaging,4811.28,Pending,45265
+1039,396,Consultation,3431.12,Paid,46205
+1040,1373,Lab Test,2958,Paid,45598
+1041,552,Consultation,1889.84,Paid,45132
+1042,575,Room,2466.59,Pending,45576
+1043,59,Imaging,5807.65,Overdue,45598
+1044,308,Medication,1949.8219,Unpaid,45401
+1045,1298,Room,2677.09,Paid,45043
+1046,139,Lab Test,3117.22,Paid,45022
+1047,1359,Surgery,3199.41,Paid,45598
+1048,1676,Lab Test,1646.5643,Pending,45598
+1049,749,Lab Test,2989,Overdue,45071
+1050,1143,Surgery,4529.94,Overdue,45715
+1051,1783,Medication,785.59,Pending,45598
+1052,147,Imaging,3003,Pending,45598
+1053,928,Consultation,9293,Unpaid,45530
+1054,1228,Lab Test,3311,Paid,45598
+1055,1238,Consultation,708.7309,Paid,45373
+1056,562,Room,358,Paid,45598
+1057,1849,Consultation,20,Overdue,46003
+1058,611,Surgery,8381.35,Pending,45539
+1059,522,Room,6524.07,Pending,46149
+1060,1125,Consultation,20,Paid,45262
+1061,258,Consultation,4141.12,Paid,45598
+1062,1836,Room,,Paid,45598
+1063,1083,Lab Test,3378.6,Pending,45598
+1064,102,Surgery,2025.16,Paid,45336
+1065,1711,Surgery,10222.6989,Paid,45308
+1066,4,Consultation,20,Unpaid,45215
+1067,1453,Consultation,11397.74,Paid,45598
+1068,1000,Lab Test,3680,Paid,45598
+1069,170,Imaging,7371.2904,Pending,46075
+1070,1053,Medication,20,Paid,45877
+1071,68,Imaging,1323.25,Pending,44943
+1072,1013,Medication,260.13,Paid,45027
+1073,95,Consultation,3196.91,Paid,45598
+1074,1502,Consultation,4423.1784,Overdue,45598
+1075,1043,Medication,6700.41,Pending,45149
+1076,748,Imaging,20,Overdue,45769
+1077,86,Surgery,3971,Unpaid,45598
+1078,1678,Imaging,6184.73,Paid,45598
+1079,1418,Medication,6746.56,Pending,44944
+1080,1679,Medication,2178.44,Paid,45656
+1081,1229,Room,2215.77,Overdue,45313
+1082,335,Consultation,3223.9264,Pending,45010
+1083,1208,Surgery,4058.1581,Paid,45598
+1084,1425,Consultation,7407.79,Overdue,45598
+1085,1205,Lab Test,20,Paid,45352
+1086,1283,Consultation,1141.24,Unpaid,45499
+1087,513,Room,20,Paid,45048
+1088,292,Room,4783,Paid,45387
+1089,718,Consultation,6804.1,Overdue,45175
+1090,1472,Consultation,20,Pending,45030
+1091,767,Consultation,3766,Unpaid,45598
+1092,1325,Surgery,6587,Paid,45826
+1093,133,Lab Test,5853.64,Paid,45598
+1094,1881,Imaging,5818.26,Unpaid,45377
+1095,1579,Medication,20,Pending,45629
+1096,265,Medication,5808.3,Paid,45598
+1097,1541,Imaging,2942.22,Paid,45320
+1098,516,Consultation,6710,Unpaid,46143
+1099,233,Surgery,4847.5,Paid,45269
+1100,267,Imaging,1053,Pending,45598
+1101,1744,Lab Test,4336.44,Paid,45133
+1102,1662,Medication,5956,Paid,45834
+1103,16,Imaging,1980.91,Unpaid,45598
+1104,1392,Lab Test,3886.41,Pending,46184
+1105,1036,Imaging,20,Unpaid,45598
+1106,1148,Medication,5147.0958,Pending,45410
+1107,517,Lab Test,3331.2089,Paid,45212
+1108,1440,Medication,6242.26,Unpaid,45598
+1109,74,Consultation,,Paid,45788
+1110,106,Imaging,2278,Paid,45810
+1111,556,Imaging,960.89,Overdue,45598
+1112,672,Imaging,270.7995,Paid,46057
+1113,17,Imaging,1978,Unpaid,45598
+1114,329,Medication,6161.29,Paid,45866
+1115,3,Room,20,Paid,45417
+1116,579,Medication,-393,Unpaid,45909
+1117,478,Consultation,,Pending,45573
+1118,340,Surgery,7486.86,Paid,45183
+1119,36,Imaging,550.52,Paid,45294
+1120,947,Consultation,359.57,Paid,45101
+1121,182,Imaging,7721.4807,Unpaid,45560
+1122,283,Surgery,3129.22,Overdue,45598
+1123,1786,Surgery,816,Pending,45598
+1124,1860,Consultation,6633.8537,Paid,45598
+1125,1585,Imaging,5010.44,Paid,45598
+1126,1622,Lab Test,5709.96,Paid,46211
+1127,17,Imaging,972.68,Paid,45179
+1128,1375,Imaging,4624,Pending,46078
+1129,1817,Lab Test,7239,Paid,45601
+1130,1128,Consultation,271119.1541,Pending,45598
+1131,762,Room,6259.61,Pending,45258
+1132,1176,Lab Test,7709.4276,Paid,45598
+1133,372,Surgery,4783,Overdue,45041
+1134,1541,Imaging,1804.64,Unpaid,45322
+1135,851,Imaging,6131.3335,Pending,45309
+1136,294,Consultation,182.88,Paid,45598
+1137,605,Imaging,2833.04,Unpaid,45598
+1138,1084,Consultation,5264,Paid,45438
+1139,1233,Lab Test,20,Paid,45519
+1140,1167,Imaging,4257,Overdue,45907
+1141,1481,Medication,4398.88,Paid,45898
+1142,132,Imaging,92.2,Pending,45598
+1143,861,Surgery,-4477.58,Overdue,45811
+1144,1584,Consultation,-4069.85,Paid,45653
+1145,345,Lab Test,3602,Pending,45598
+1146,727,Room,7068.3014,Paid,46110
+1147,610,Medication,6136.7281,Paid,45939
+1148,451,Lab Test,5419.9486,Unpaid,45497
+1149,458,Room,427.34,Overdue,45419
+1150,838,Surgery,3447.98,Pending,45241
+1151,1166,Consultation,7053.3,Paid,44963
+1152,1122,Imaging,2856.01,Pending,45033
+1153,959,Imaging,8162.79,Overdue,45461
+1154,264,Surgery,5507.5802,Paid,45540
+1155,607,Imaging,8628.6817,Paid,44931
+1156,543,Lab Test,298,Pending,45920
+1157,1045,Imaging,3036.0274,Paid,45074
+1158,1405,Imaging,3319.61,Paid,45598
+1159,1286,Consultation,5318.52,Paid,45598
+1160,1004,Lab Test,1284,Overdue,45598
+1161,1453,Imaging,20,Paid,46042
+1162,1486,Lab Test,4635,Pending,45834
+1163,1282,Room,2401,Paid,45946
+1164,612,Medication,2087.91,Paid,46221
+1165,138,Surgery,1422,Pending,45537
+1166,586,Medication,193583,Unpaid,45777
+1167,66,Room,269.43,Unpaid,45155
+1168,826,Medication,2917.41,Overdue,46031
+1169,60,Imaging,1013.86,Pending,45666
+1170,905,Imaging,1672,Pending,45567
+1171,1479,Surgery,4561.43,Pending,45374
+1172,1235,Consultation,5454.23,Pending,44938
+1173,1237,Consultation,2582,Paid,45961
+1174,805,Imaging,6403.49,Unpaid,46123
+1175,315,Lab Test,581.86,Unpaid,45174
+1176,307,Consultation,20,Unpaid,45598
+1177,687,Surgery,20,Unpaid,45537
+1178,1282,Medication,13688.98,Overdue,45782
+1179,512,Medication,20,Pending,45185
+1180,371,Surgery,9563.46,Paid,45872
+1181,264,Surgery,20,Paid,45598
+1182,369,Imaging,6312.29,Paid,45598
+1183,1261,Room,3424.6135,Overdue,45774
+1184,1658,Surgery,-4173.8,Paid,45298
+1185,570,Lab Test,783,Pending,46048
+1186,1439,Medication,447636,Paid,44927
+1187,742,Medication,758,Overdue,45547
+1188,234,Surgery,-6268.3,Pending,45259
+1189,251,Room,6516.5404,Paid,45676
+1190,811,Surgery,3095.4142,Pending,45822
+1191,510,Lab Test,3291.91,Paid,45598
+1192,363,Imaging,4798.17,Pending,45053
+1193,555,Imaging,4644.83,Overdue,45527
+1194,554,Medication,6572,Paid,45633
+1195,956,Lab Test,6487.5378,Pending,45296
+1196,1737,Medication,3413.48,Paid,45598
+1197,1183,Medication,2068.33,Pending,45140
+1198,1410,Surgery,-5934.86,Pending,45598
+1199,266,Imaging,3031.1428,Pending,45312
+1200,905,Imaging,3841.23,Paid,45312
+1201,368,Consultation,5090.95,Unpaid,45589
+1202,1508,Room,6427,Pending,45828
+1203,811,Lab Test,214127.22,Paid,45975
+1204,1749,Consultation,1738.41,Paid,45339
+1205,1686,Medication,8891.03,Paid,45771
+1206,857,Imaging,8091,Pending,45598
+1207,1132,Room,445.99,Paid,45728
+1208,643,Room,765,Paid,45598
+1209,380,Medication,1141.9596,Paid,45598
+1210,1533,Medication,6045.65,Pending,45528
+1211,983,Surgery,450271.48,Unpaid,46190
+1212,1784,Lab Test,1981.18,Unpaid,45598
+1213,43,Lab Test,4007.81,Unpaid,46084
+1214,1033,Consultation,1242.18,Paid,45174
+1215,467,Consultation,8601,Paid,46102
+1216,1136,Medication,5974.49,Pending,45318
+1217,162,Imaging,1026.09,Overdue,45598
+1218,70,Lab Test,20,Overdue,45598
+1219,1797,Imaging,6612.7612,Paid,45598
+1220,318,Lab Test,1782.5456,Pending,45270
+1221,393,Surgery,6028,Pending,45275
+1222,1858,Room,4381.071,Pending,45169
+1223,1830,Consultation,20,Unpaid,45329
+1224,925,Room,1079.67,Overdue,46017
+1225,728,Imaging,2437.5659,Unpaid,45693
+1226,762,Imaging,1472.63,Paid,45010
+1227,1248,Room,3848.5,Pending,45100
+1228,1768,Room,4704,Pending,45352
+1229,587,Imaging,8868.08,Pending,45210
+1230,1223,Room,4916.6404,Unpaid,46077
+1231,944,Room,7973,Paid,45591
+1232,712,Imaging,2069.5496,Unpaid,45598
+1233,954,Imaging,-6996,Paid,45598
+1234,490,Medication,2356.4057,Unpaid,45819
+1235,1374,Consultation,748.9496,Overdue,46161
+1236,202,Room,,Paid,45598
+1237,1029,Medication,,Unpaid,45911
+1238,1357,Imaging,6062,Unpaid,45598
+1239,1153,Consultation,20,Paid,45825
+1240,1380,Surgery,7724.44,Unpaid,45189
+1241,1886,Consultation,2977.34,Paid,45750
+1242,1260,Imaging,20,Unpaid,45214
+1243,114,Lab Test,-146.81,Overdue,45598
+1244,620,Room,4071.9,Unpaid,45365
+1245,391,Medication,20,Overdue,45943
+1246,28,Imaging,5269.84,Pending,45598
+1247,125,Lab Test,20,Paid,44939
+1248,862,Imaging,1283,Paid,45736
+1249,1661,Imaging,4096.16,Paid,45598
+1250,76,Imaging,4902.8321,Unpaid,45098
+1251,899,Imaging,5893.16,Pending,45823
+1252,1687,Imaging,20,Pending,45673
+1253,1635,Medication,2574.64,Unpaid,45888
+1254,681,Consultation,6779,Overdue,45219
+1255,1615,Imaging,2575.36,Paid,45201
+1256,579,Consultation,4382.82,Overdue,45598
+1257,927,Medication,3987,Pending,44940
+1258,793,Lab Test,7403.71,Unpaid,45598
+1259,910,Imaging,2102.2724,Paid,45598
+1260,790,Consultation,20,Pending,45598
+1261,908,Consultation,596.38,Paid,44969
+1262,1616,Imaging,4066.53,Paid,45284
+1263,1160,Lab Test,,Paid,45598
+1264,1548,Medication,1866.758,Unpaid,45044
+1265,1684,Lab Test,3726.2492,Overdue,45459
+1266,297,Medication,1200,Paid,45005
+1267,1495,Medication,4480.56,Paid,45785
+1268,81,Lab Test,5673.2353,Paid,46104
+1269,754,Imaging,4864.7258,Paid,45598
+1270,611,Consultation,20,Pending,45598
+1271,1232,Imaging,3737.55,Paid,45058
+1272,798,Consultation,3972,Paid,45598
+1273,871,Lab Test,2357.21,Overdue,45688
+1274,1362,Lab Test,4439.93,Unpaid,45598
+1275,274,Surgery,4332.2737,Paid,44929
+1276,1855,Lab Test,3227,Paid,45335
+1277,1599,Imaging,487.18,Paid,46046
+1278,1218,Imaging,3420,Pending,45156
+1279,250,Imaging,9100.79,Paid,45658
+1280,364,Lab Test,2323.0789,Pending,45598
+1281,1251,Imaging,6642,Pending,45598
+1282,744,Surgery,3616.57,Pending,45368
+1283,947,Room,1098,Unpaid,45871
+1284,658,Imaging,2610.21,Paid,45079
+1285,1092,Room,3449.3889,Paid,45315
+1286,1028,Room,5466,Unpaid,45531
+1287,1487,Room,10640.14,Paid,45346
+1288,115,Imaging,3664,Unpaid,44985
+1289,971,Medication,20,Paid,45215
+1290,1683,Imaging,-20,Unpaid,45598
+1291,1295,Consultation,2234.65,Pending,46219
+1292,939,Medication,115.74,Paid,45598
+1293,279,Surgery,,Paid,46020
+1294,180,Medication,5196,Pending,45887
+1295,1562,Imaging,3062.07,Pending,45598
+1296,957,Medication,-5472,Pending,45598
+1297,1084,Imaging,3694.28,Paid,45400
+1298,906,Medication,9102.72,Pending,45598
+1299,116,Room,5378,Paid,44950
+1300,1451,Lab Test,6187,Pending,45672
+1301,1813,Lab Test,20,Paid,45874
+1302,1400,Room,20,Pending,45839
+1303,1819,Imaging,4936.5153,Paid,46120
+1304,1674,Medication,20,Paid,45598
+1305,354,Room,1626.57,Pending,45598
+1306,1449,Medication,7038,Paid,45632
+1307,1413,Imaging,1562.4326,Pending,45588
+1308,1264,Medication,20,Unpaid,45598
+1309,939,Surgery,5502.63,Pending,45310
+1310,498,Imaging,9720.6,Pending,45598
+1311,607,Imaging,1074.06,Paid,45214
+1312,1420,Room,7172.08,Overdue,45742
+1313,1696,Medication,700.48,Overdue,45337
+1314,588,Imaging,3163,Overdue,45262
+1315,136,Imaging,3292.6,Overdue,45086
+1316,845,Medication,1154.05,Paid,45512
+1317,105,Consultation,6126.19,Pending,45598
+1318,1188,Medication,20,Overdue,45598
+1319,453,Surgery,4085,Pending,45174
+1320,92,Imaging,6722,Pending,45598
+1321,1599,Surgery,5876.49,Overdue,45598
+1322,446,Room,4974,Pending,45567
+1323,1373,Imaging,8255.9,Unpaid,45598
+1324,519,Surgery,2841.15,Pending,45505
+1325,1730,Medication,20,Paid,46122
+1326,530,Surgery,3906,Paid,45063
+1327,556,Room,3123,Pending,45382
+1328,1134,Consultation,20,Unpaid,45221
+1329,821,Consultation,,Pending,45039
+1330,1187,Lab Test,20,Pending,45598
+1331,976,Medication,1056,Pending,45683
+1332,1336,Imaging,2446.48,Unpaid,45677
+1333,110,Surgery,2561.38,Pending,45498
+1334,1527,Surgery,1163.5858,Unpaid,45598
+1335,755,Consultation,20,Overdue,45598
+1336,227,Lab Test,4632,Pending,45598
+1337,1362,Surgery,3849.7156,Pending,45598
+1338,716,Surgery,3940.0145,Paid,46035
+1339,685,Imaging,8837,Paid,45274
+1340,374,Room,3989,Unpaid,45598
+1341,301,Imaging,120001.33,Paid,45243
+1342,1262,Imaging,-3182.582,Unpaid,45598
+1343,1309,Room,3796.46,Paid,45571
+1344,773,Room,5347.38,Pending,45598
+1345,330,Surgery,3366,Paid,45471
+1346,1292,Imaging,1000,Unpaid,45156
+1347,578,Consultation,,Paid,46115
+1348,814,Imaging,-3504.48,Overdue,45598
+1349,1492,Imaging,7412.6047,Pending,45598
+1350,427,Surgery,-1142.31,Unpaid,45598
+1351,385,Room,20,Paid,45025
+1352,1093,Consultation,3693.1316,Paid,45724
+1353,1193,Lab Test,6098.71,Overdue,45316
+1354,375,Consultation,2319.7312,Unpaid,45985
+1355,149,Imaging,10649.15,Unpaid,45727
+1356,1691,Lab Test,9942.49,Paid,45945
+1357,1672,Surgery,3282.58,Paid,46022
+1358,295,Consultation,4060.14,Paid,45954
+1359,185,Imaging,760619.44,Paid,45598
+1360,1598,Room,3230.4958,Paid,45598
+1361,1190,Imaging,1087.73,Pending,46224
+1362,1706,Room,,Overdue,45912
+1363,1578,Lab Test,4893,Paid,45598
+1364,592,Imaging,1078,Overdue,45598
+1365,416,Surgery,4337.49,Paid,45598
+1366,613,Lab Test,3019.82,Pending,45425
+1367,1132,Surgery,2344.71,Paid,45644
+1368,1332,Surgery,,Paid,46006
+1369,233,Medication,3864.21,Pending,46157
+1370,1413,Lab Test,2702.43,Paid,46002
+1371,183,Surgery,4354,Pending,45521
+1372,939,Surgery,-5959.51,Paid,45598
+1373,1280,Medication,4194.7,Paid,46030
+1374,272,Surgery,4246,Paid,46026
+1375,1574,Room,1876.47,Paid,46187
+1376,1277,Consultation,7023.07,Pending,45058
+1377,964,Surgery,954,Unpaid,45990
+1378,11,Imaging,20,Overdue,45755
+1379,671,Surgery,287.05,Paid,45598
+1380,1741,Consultation,6602.79,Unpaid,45598
+1381,1027,Medication,4876.6935,Pending,45035
+1382,1108,Surgery,7435.83,Pending,45421
+1383,290,Consultation,20,Pending,45817
+1384,1825,Room,10460.65,Overdue,45270
+1385,92,Room,2649,Unpaid,45384
+1386,701,Imaging,20,Overdue,45113
+1387,1222,Consultation,10087.3495,Paid,45201
+1388,1118,Imaging,20,Pending,45490
+1389,106,Lab Test,2306.3129,Paid,45875
+1390,406,Imaging,2883,Pending,45598
+1391,464,Consultation,4832.25,Pending,45598
+1392,1641,Imaging,1126,Paid,45893
+1393,353,Consultation,6617.94,Overdue,45090
+1394,1195,Room,5760.91,Unpaid,45783
+1395,1280,Consultation,3557.2,Unpaid,45598
+1396,206,Imaging,7472.99,Pending,45650
+1397,1009,Imaging,3296.43,Paid,45243
+1398,1447,Surgery,2673.06,Unpaid,45598
+1399,1560,Medication,9494.31,Paid,45598
+1400,1007,Imaging,4387.21,Unpaid,46161
+1401,390,Room,543.05,Pending,45022
+1402,1011,Lab Test,949.19,Pending,45891
+1403,208,Lab Test,3557,Paid,45294
+1404,1122,Room,20,Pending,45516
+1405,124,Medication,1601.03,Overdue,45487
+1406,641,Surgery,3199,Paid,45598
+1407,1318,Imaging,2998.41,Pending,46176
+1408,1726,Lab Test,-20,Unpaid,46216
+1409,1332,Consultation,2154.45,Paid,45598
+1410,1091,Imaging,7039.41,Overdue,45598
+1411,1766,Medication,6419.45,Paid,45598
+1412,1023,Lab Test,3787,Paid,45877
+1413,1116,Imaging,3293,Paid,45598
+1414,298,Surgery,3015,Pending,45896
+1415,1390,Lab Test,4208.93,Unpaid,46100
+1416,1381,Imaging,3807.71,Pending,45652
+1417,1783,Medication,4472.4229,Paid,45138
+1418,51,Consultation,5005.38,Pending,45220
+1419,9,Medication,20,Pending,45598
+1420,807,Imaging,2569.19,Paid,45290
+1421,719,Surgery,4093.74,Overdue,45724
+1422,1812,Imaging,602.49,Pending,45293
+1423,1791,Imaging,1478.5359,Pending,45385
+1424,1779,Imaging,-2846,Overdue,45725
+1425,1101,Imaging,2993.5,Paid,45598
+1426,1671,Medication,4149.81,Pending,44971
+1427,46,Medication,955.91,Paid,45598
+1428,867,Consultation,6404,Overdue,45598
+1429,1051,Lab Test,2968.77,Paid,45388
+1430,35,Lab Test,3935.5931,Pending,46205
+1431,117,Lab Test,2390.5,Paid,45598
+1432,873,Surgery,4206.95,Unpaid,46034
+1433,906,Room,8514,Overdue,45429
+1434,1673,Imaging,2362.64,Paid,45199
+1435,665,Imaging,1866.51,Unpaid,45993
+1436,486,Surgery,1009.53,Overdue,45908
+1437,1135,Surgery,3321.1345,Paid,45598
+1438,680,Medication,3286.39,Unpaid,45598
+1439,731,Room,3654,Pending,45689
+1440,88,Medication,4904.7676,Paid,45984
+1441,1553,Consultation,4527,Unpaid,45598
+1442,183,Consultation,3432.4356,Paid,45598
+1443,1443,Surgery,468070.24,Overdue,45352
+1444,1033,Surgery,5572.04,Unpaid,45651
+1445,1640,Imaging,232.2202,Paid,45724
+1446,180,Imaging,20,Paid,45799
+1447,969,Imaging,1413,Pending,45070
+1448,557,Surgery,197898.757,Unpaid,45387
+1449,1618,Lab Test,1161.501,Paid,45598
+1450,29,Lab Test,1617.12,Overdue,45305
+1451,1260,Surgery,3578.2,Paid,45706
+1452,1706,Consultation,2474,Paid,45708
+1453,2,Room,20,Paid,45552
+1454,729,Room,6732,Paid,46048
+1455,450,Imaging,6034.87,Pending,44933
+1456,1723,Imaging,20,Paid,45598
+1457,577,Imaging,3670.67,Paid,45598
+1458,107,Surgery,150.35,Overdue,45598
+1459,1442,Lab Test,1673.61,Overdue,45405
+1460,985,Consultation,4958.46,Pending,45782
+1461,1328,Consultation,5930.14,Overdue,45555
+1462,1127,Imaging,5860,Overdue,45523
+1463,1189,Surgery,4234.52,Overdue,45598
+1464,1133,Consultation,7326,Paid,45598
+1465,516,Medication,1668.3149,Overdue,45780
+1466,937,Imaging,2334.11,Overdue,46013
+1467,470,Lab Test,-20,Unpaid,45598
+1468,942,Room,3220.83,Paid,46082
+1469,671,Imaging,5239.08,Overdue,46046
+1470,679,Consultation,4355.7788,Pending,45603
+1471,1542,Medication,1627.94,Paid,46064
+1472,253,Imaging,6034,Pending,45149
+1473,1360,Medication,3278.51,Paid,45330
+1474,1386,Imaging,5799,Overdue,45450
+1475,609,Imaging,4958.4491,Pending,45598
+1476,258,Room,7774,Unpaid,45882
+1477,1791,Imaging,4518.09,Unpaid,45169
+1478,1652,Lab Test,5329.828,Unpaid,46133
+1479,673,Lab Test,3269.85,Unpaid,45598
+1480,978,Imaging,1991.3295,Paid,45598
+1481,399,Lab Test,4972.1966,Paid,45598
+1482,1219,Room,8008,Overdue,45098
+1483,428,Surgery,1652,Overdue,45336
+1484,1352,Surgery,275559.1,Paid,45598
+1485,691,Surgery,3579.95,Unpaid,45598
+1486,1648,Consultation,,Overdue,45829
+1487,1635,Lab Test,4536.37,Overdue,45732
+1488,26,Imaging,6239.1895,Paid,45897
+1489,91,Imaging,9421.73,Overdue,45307
+1490,106,Surgery,1583.3,Paid,45145
+1491,1266,Imaging,5329.19,Pending,45118
+1492,725,Room,4461.92,Overdue,45026
+1493,1520,Medication,,Paid,45163
+1494,1479,Consultation,5318.2557,Unpaid,45018
+1495,1118,Room,2699.5909,Unpaid,45669
+1496,1157,Medication,4469.1372,Pending,45551
+1497,592,Imaging,20,Pending,46167
+1498,1201,Medication,1883.5542,Unpaid,45598
+1499,277,Surgery,6642.56,Unpaid,46048
+1500,871,Surgery,6527.2489,Paid,45598
+1501,784,Lab Test,4278.3,Unpaid,45370
+1502,1571,Imaging,2140.85,Paid,45808
+1503,613,Imaging,5975.8,Paid,45598
+1504,1414,Surgery,7209.46,Unpaid,45655
+1505,970,Imaging,2263,Pending,45598
+1506,1615,Medication,20,Unpaid,46050
+1507,1564,Imaging,4847.4,Pending,44946
+1508,1221,Imaging,6241.3,Overdue,46129
+1509,991,Consultation,5262.45,Paid,45537
+1510,557,Lab Test,8195.24,Unpaid,44928
+1511,1212,Imaging,8207.9,Paid,45598
+1512,812,Room,2583.81,Paid,45598
+1513,56,Consultation,4096.98,Pending,45861
+1514,151,Surgery,2010.4,Unpaid,45406
+1515,1124,Imaging,433.81,Overdue,45598
+1516,762,Imaging,609.6821,Paid,45235
+1517,402,Imaging,5651.0641,Unpaid,46026
+1518,674,Consultation,4409,Paid,45598
+1519,21,Surgery,6169.88,Unpaid,45542
+1520,226,Room,11094.86,Unpaid,46158
+1521,424,Imaging,4999.6028,Pending,45708
+1522,263,Imaging,1136.2383,Paid,45598
+1523,1085,Surgery,6605.38,Paid,45598
+1524,1275,Lab Test,1080.46,Pending,45368
+1525,781,Lab Test,8745,Paid,45325
+1526,953,Surgery,20,Paid,45666
+1527,1141,Imaging,1860.3531,Unpaid,45983
+1528,759,Medication,5366.41,Paid,45598
+1529,943,Lab Test,7032.563,Pending,45762
+1530,1013,Medication,1469,Unpaid,45731
+1531,1226,Lab Test,925.2261,Pending,45720
+1532,15,Medication,3945.1016,Paid,45352
+1533,294,Consultation,9226.98,Pending,46040
+1534,1518,Imaging,20,Paid,46165
+1535,1377,Imaging,2557.6397,Unpaid,44935
+1536,1082,Imaging,4280.56,Unpaid,45598
+1537,128,Medication,1112.15,Pending,45598
+1538,598,Lab Test,-1102,Paid,45217
+1539,740,Room,2799.83,Overdue,45598
+1540,1186,Surgery,4378,Pending,45408
+1541,46,Room,2914.82,Paid,46120
+1542,69,Medication,7896.697,Paid,46188
+1543,1638,Imaging,5278,Paid,45146
+1544,1092,Imaging,4649.49,Pending,45601
+1545,370,Room,6582.96,Overdue,45598
+1546,1577,Medication,4702.41,Overdue,45598
+1547,341,Consultation,2170.44,Paid,45762
+1548,1750,Surgery,2710.54,Pending,45021
+1549,867,Imaging,112,Paid,45598
+1550,791,Surgery,9514.6346,Unpaid,45137
+1551,1634,Medication,6292.17,Unpaid,45598
+1552,281,Imaging,20,Paid,45598
+1553,802,Consultation,7499.39,Paid,45598
+1554,1360,Imaging,20,Pending,45632
+1555,428,Consultation,5062.01,Pending,46036
+1556,825,Imaging,20,Pending,45083
+1557,472,Medication,2215.612,Unpaid,45055
+1558,603,Surgery,7523,Paid,45598
+1559,845,Surgery,7689.9,Paid,45266
+1560,1442,Surgery,4420.3262,Overdue,44991
+1561,215,Lab Test,5862.39,Overdue,45293
+1562,440,Imaging,20,Overdue,45598
+1563,61,Imaging,5114.9998,Paid,45598
+1564,300,Surgery,6052.91,Pending,45276
+1565,462,Surgery,-11209.24,Overdue,45598
+1566,925,Consultation,1630.34,Paid,45283
+1567,1839,Medication,3548.9085,Pending,44969
+1568,1476,Surgery,3734,Pending,45996
+1569,275,Imaging,5595.75,Unpaid,45173
+1570,938,Room,6141.53,Paid,45598
+1571,485,Room,6683,Pending,46234
+1572,408,Consultation,6463.89,Paid,45598
+1573,567,Room,20,Paid,45598
+1574,658,Imaging,20,Pending,45355
+1575,363,Surgery,1956.87,Paid,45598
+1576,1086,Surgery,3394,Unpaid,44931
+1577,539,Lab Test,1660,Pending,45355
+1578,561,Lab Test,2120.91,Paid,45390
+1579,762,Room,2491.25,Paid,45444
+1580,938,Room,5232.32,Unpaid,45598
+1581,1113,Room,399,Overdue,45598
+1582,1311,Room,3266.5167,Pending,45518
+1583,777,Imaging,3289.48,Pending,45598
+1584,764,Consultation,5164.1,Paid,46106
+1585,1310,Surgery,6985.71,Unpaid,45983
+1586,371,Medication,8552.3222,Unpaid,45583
+1587,1244,Imaging,1262.0277,Pending,45417
+1588,350,Medication,20,Paid,46182
+1589,99,Imaging,2774.22,Pending,45286
+1590,157,Medication,20,Pending,45598
+1591,102,Room,11703.7307,Unpaid,45598
+1592,1183,Imaging,881.36,Overdue,45598
+1593,1585,Imaging,5192,Paid,45983
+1594,22,Lab Test,6302.2,Paid,45598
+1595,1490,Imaging,4522,Paid,45598
+1596,1150,Room,9730.16,Pending,45598
+1597,1366,Surgery,2892.56,Unpaid,45598
+1598,698,Consultation,995.35,Pending,45261
+1599,1138,Room,840.13,Paid,46018
+1600,461,Lab Test,5750,Paid,45358
+1601,499,Medication,2930.61,Unpaid,46004
+1602,948,Room,840.53,Overdue,45598
+1603,1576,Imaging,4823.92,Paid,45043
+1604,1490,Lab Test,5627.75,Paid,45442
+1605,978,Consultation,4313.92,Pending,45576
+1606,893,Lab Test,6198.7892,Paid,45598
+1607,170,Consultation,3764.3,Paid,45427
+1608,214,Medication,1719,Pending,45253
+1609,183,Imaging,5934.2002,Pending,45887
+1610,1346,Medication,829.74,Paid,45598
+1611,1307,Lab Test,113,Pending,45598
+1612,930,Medication,6967.8489,Paid,45598
+1613,765,Imaging,2456.46,Overdue,45186
+1614,759,Room,8497.0517,Unpaid,46114
+1615,1547,Lab Test,6069.78,Overdue,45598
+1616,1638,Room,2228.48,Paid,45346
+1617,1679,Imaging,4958.66,Pending,45598
+1618,90,Imaging,11085.14,Unpaid,44953
+1619,863,Room,5762.82,Paid,45589
+1620,1624,Imaging,5245.1,Paid,45824
+1621,1479,Surgery,1715.8368,Pending,45125
+1622,443,Lab Test,9033.6641,Pending,45598
+1623,1338,Room,7453.81,Paid,45018
+1624,846,Imaging,1743.31,Unpaid,45915
+1625,1038,Medication,9141,Paid,45448
+1626,1584,Lab Test,3994.25,Pending,45186
+1627,276,Imaging,979,Pending,45121
+1628,1242,Medication,1704,Unpaid,45776
+1629,470,Surgery,-6133.1,Overdue,45598
+1630,1218,Imaging,999.5,Paid,45921
+1631,260,Consultation,190.65,Pending,45558
+1632,1438,Imaging,109168.83,Paid,46025
+1633,586,Consultation,2631.4603,Pending,45598
+1634,1579,Surgery,1480.05,Paid,46186
+1635,1361,Medication,,Overdue,45883
+1636,675,Imaging,6250.79,Pending,46024
+1637,471,Imaging,4269.51,Pending,46062
+1638,402,Consultation,1953,Paid,45598
+1639,1731,Imaging,2216.46,Pending,45598
+1640,1206,Surgery,3105.0315,Overdue,45905
+1641,613,Surgery,3276.76,Overdue,45763
+1642,537,Lab Test,3289,Overdue,45251
+1643,1309,Imaging,6141,Unpaid,46205
+1644,632,Room,4091.12,Paid,46157
+1645,1539,Lab Test,4179.373,Paid,45383
+1646,1446,Consultation,7780.3561,Paid,46127
+1647,1307,Medication,9129.95,Pending,46166
+1648,59,Consultation,20,Paid,45598
+1649,101,Imaging,20,Overdue,45598
+1650,212,Imaging,2451.78,Paid,44980
+1651,451,Medication,5849.39,Unpaid,45294
+1652,69,Medication,4627.96,Paid,46078
+1653,1764,Room,6662,Overdue,45791
+1654,1450,Medication,2323,Unpaid,45598
+1655,745,Imaging,20,Unpaid,46129
+1656,1060,Room,20,Paid,45924
+1657,287,Consultation,5194.2,Pending,46219
+1658,925,Consultation,6685.26,Pending,45047
+1659,1212,Lab Test,20,Pending,45598
+1660,980,Medication,7731.97,Overdue,45241
+1661,1606,Medication,4893.9,Overdue,45637
+1662,1588,Imaging,3288.73,Pending,46009
+1663,1580,Room,1619.53,Pending,45598
+1664,1234,Imaging,8273.48,Paid,45598
+1665,1757,Lab Test,6191,Paid,45598
+1666,926,Room,4972,Pending,45598
+1667,22,Consultation,1305.79,Unpaid,45200
+1668,1768,Imaging,8343,Pending,45598
+1669,1611,Imaging,3591.05,Paid,45598
+1670,1385,Surgery,4397.05,Paid,45598
+1671,1763,Imaging,3719.18,Pending,45598
+1672,1496,Imaging,1203.3486,Unpaid,46173
+1673,581,Imaging,-4459.16,Pending,45357
+1674,259,Lab Test,5590.82,Pending,46128
+1675,728,Consultation,108758.8885,Paid,45598
+1676,821,Imaging,4202.23,Paid,45268
+1677,1617,Room,3675.4983,Overdue,46188
+1678,916,Medication,6245,Paid,45598
+1679,605,Medication,2603.1762,Overdue,45598
+1680,1385,Surgery,4179.7129,Overdue,44948
+1681,829,Imaging,,Paid,45598
+1682,1131,Medication,,Pending,46134
+1683,57,Consultation,1023.94,Paid,45700
+1684,305,Surgery,1512.18,Paid,45934
+1685,176,Imaging,4727.5701,Paid,45598
+1686,1654,Imaging,2794.0517,Pending,46166
+1687,1766,Consultation,2754,Pending,45031
+1688,1806,Imaging,5312,Paid,46021
+1689,1591,Medication,6558.47,Unpaid,45489
+1690,1463,Consultation,7075.15,Paid,45598
+1691,1126,Imaging,1662.5,Unpaid,46053
+1692,1831,Lab Test,6268.24,Paid,45739
+1693,1117,Room,9754.95,Unpaid,46029
+1694,1046,Surgery,3878,Paid,45135
+1695,1647,Medication,3280.07,Unpaid,45198
+1696,934,Consultation,2654.72,Overdue,46227
+1697,143,Imaging,308.73,Pending,45368
+1698,1172,Consultation,6027,Paid,46142
+1699,768,Consultation,3293.42,Paid,45828
+1700,916,Imaging,3050.87,Paid,45359
+1701,1518,Medication,5562.03,Overdue,45762
+1702,5,Medication,,Paid,45063
+1703,598,Lab Test,1697.47,Unpaid,45753
+1704,296,Room,1769.107,Paid,45987
+1705,807,Imaging,1635.93,Paid,45254
+1706,963,Imaging,9840.5429,Paid,45113
+1707,1605,Consultation,7931.44,Unpaid,45425
+1708,1502,Imaging,-5621.12,Paid,45246
+1709,100,Room,2373.77,Pending,46071
+1710,1759,Surgery,2729.21,Paid,45660
+1711,809,Consultation,4590.31,Unpaid,46180
+1712,853,Room,10127.3907,Paid,45598
+1713,168,Lab Test,4366.63,Paid,45598
+1714,1542,Imaging,5026.4767,Paid,45598
+1715,1743,Surgery,-20,Pending,45598
+1716,67,Imaging,4272.7368,Paid,45598
+1717,352,Imaging,20,Paid,45900
+1718,1809,Medication,2039.02,Paid,46025
+1719,266,Imaging,3640.6578,Paid,45598
+1720,1599,Consultation,2594,Pending,45125
+1721,1561,Imaging,1592.12,Paid,45806
+1722,376,Medication,,Paid,45598
+1723,1020,Imaging,2866.86,Pending,45868
+1724,1002,Surgery,2735.87,Paid,45586
+1725,1751,Imaging,3560.8177,Pending,45342
+1726,1646,Medication,3336.57,Pending,45236
+1727,1628,Room,7337,Overdue,45342
+1728,1475,Imaging,20,Pending,45598
+1729,425,Medication,4234.92,Pending,46149
+1730,921,Imaging,3713.03,Unpaid,45598
+1731,42,Imaging,3097,Paid,45308
+1732,1187,Consultation,1382.57,Paid,45663
+1733,85,Lab Test,3051,Overdue,45860
+1734,1818,Consultation,20,Pending,45598
+1735,1619,Room,4120.15,Paid,44987
+1736,1453,Surgery,4664.18,Paid,45598
+1737,1503,Imaging,1387.79,Pending,45741
+1738,1134,Consultation,9322.07,Overdue,45389
+1739,1609,Imaging,3138.67,Overdue,45598
+1740,4,Imaging,3632.22,Paid,45598
+1741,732,Imaging,7507.34,Pending,45788
+1742,302,Lab Test,9926,Paid,45740
+1743,1744,Lab Test,129.98,Pending,45598
+1744,1675,Imaging,-1768.51,Pending,45955
+1745,165,Consultation,3192,Paid,45598
+1746,963,Lab Test,1271.38,Overdue,46016
+1747,959,Imaging,6038.34,Paid,46027
+1748,1372,Consultation,941.05,Unpaid,46122
+1749,1643,Consultation,7299.8095,Unpaid,45176
+1750,705,Imaging,5371,Pending,45899
+1751,1489,Consultation,6992,Unpaid,45598
+1752,1070,Medication,954.49,Pending,46086
+1753,1629,Surgery,2349.52,Overdue,45351
+1754,14,Medication,6193.96,Pending,45930
+1755,619,Lab Test,5649.7796,Pending,45163
+1756,1604,Consultation,2639.42,Paid,46144
+1757,947,Medication,3066,Pending,45713
+1758,1234,Room,2196.96,Overdue,45885
+1759,795,Imaging,,Paid,45598
+1760,897,Imaging,603.98,Paid,45704
+1761,424,Consultation,-100.35,Pending,45539
+1762,902,Lab Test,6516.29,Overdue,45598
+1763,1365,Surgery,2883.79,Pending,45758
+1764,458,Imaging,6953.98,Overdue,45660
+1765,1103,Imaging,5287.95,Pending,45597
+1766,886,Surgery,4436.03,Overdue,45770
+1767,603,Room,1369.33,Paid,46141
+1768,1540,Room,20,Unpaid,45399
+1769,115,Imaging,2129.27,Pending,45221
+1770,241,Surgery,8095.7522,Paid,45598
+1771,528,Imaging,6166.87,Overdue,44936
+1772,223,Consultation,1849,Overdue,45920
+1773,1267,Room,2163.32,Pending,45598
+1774,1181,Lab Test,712.7316,Paid,45598
+1775,1798,Imaging,20,Overdue,45965
+1776,262,Imaging,3804.8,Paid,45598
+1777,327,Medication,8675.23,Unpaid,45598
+1778,831,Imaging,8712.9,Overdue,45948
+1779,1104,Imaging,5323.71,Pending,45076
+1780,1417,Imaging,84599,Pending,44943
+1781,15,Imaging,20,Pending,45307
+1782,1016,Medication,6641.19,Pending,45115
+1783,338,Lab Test,4841.65,Unpaid,45598
+1784,370,Surgery,2551.32,Pending,46191
+1785,1704,Room,2050.1237,Unpaid,45144
+1786,104,Imaging,5301.3097,Pending,45598
+1787,373,Imaging,1020.1354,Paid,46065
+1788,392,Imaging,4217.7,Pending,46069
+1789,1888,Surgery,20,Paid,45599
+1790,998,Surgery,509277,Overdue,45211
+1791,1493,Room,1438.86,Overdue,46154
+1792,421,Room,5445.2,Pending,45504
+1793,1131,Medication,20,Pending,45958
+1794,222,Imaging,3010.2405,Paid,45598
+1795,1424,Consultation,6153.86,Pending,46091
+1796,1408,Room,6803,Paid,45598
+1797,924,Imaging,5789.86,Overdue,46007
+1798,1688,Medication,3085.27,Paid,45346
+1799,696,Imaging,75107.35,Paid,45769
+1800,1710,Imaging,266.97,Paid,45598
+1801,1292,Imaging,8011.4,Unpaid,45485
+1802,1399,Imaging,3810.11,Pending,45896
+1803,1728,Medication,4364.72,Paid,45933
+1804,1506,Imaging,6996.11,Overdue,44977
+1805,553,Consultation,5260,Pending,45241
+1806,458,Imaging,3117.7482,Paid,45477
+1807,1851,Lab Test,5733.21,Paid,45726
+1808,1103,Imaging,1632,Paid,45598
+1809,1603,Lab Test,20,Paid,45905
+1810,384,Lab Test,7735.53,Overdue,45443
+1811,273,Medication,1882,Unpaid,45424
+1812,1167,Medication,2587.13,Unpaid,46015
+1813,1525,Imaging,2851.75,Paid,45514
+1814,909,Consultation,1693,Paid,45515
+1815,326,Lab Test,6804,Paid,44989
+1816,478,Room,,Paid,45598
+1817,1578,Lab Test,2588.64,Overdue,45598
+1818,240,Imaging,20,Pending,45598
+1819,207,Room,4411.3934,Pending,45926
+1820,677,Surgery,20,Overdue,45598
+1821,852,Imaging,4198.24,Pending,44955
+1822,956,Imaging,7529.54,Pending,45598
+1823,854,Imaging,3693.68,Paid,46222
+1824,127,Lab Test,7118.98,Overdue,45092
+1825,1494,Imaging,20,Paid,46205
+1826,395,Surgery,9615.62,Pending,45945
+1827,1764,Room,6791.86,Paid,45315
+1828,1319,Lab Test,,Pending,45007
+1829,20,Consultation,1704.8166,Overdue,46185
+1830,295,Medication,1206.4337,Paid,45951
+1831,1238,Room,3287.28,Paid,44980
+1832,741,Lab Test,7108.33,Paid,45700
+1833,1469,Lab Test,20,Paid,45495
+1834,1272,Lab Test,3531.23,Pending,45598
+1835,1428,Room,5702.66,Overdue,45143
+1836,744,Medication,6288.05,Pending,45598
+1837,434,Imaging,5693.71,Paid,45288
+1838,917,Imaging,20,Unpaid,45598
+1839,1649,Surgery,6895.33,Paid,45648
+1840,1149,Room,3701.58,Paid,45435
+1841,1185,Imaging,243.21,Paid,45108
+1842,44,Consultation,3427.5,Paid,45428
+1843,1790,Surgery,20,Paid,45276
+1844,93,Medication,5234.8941,Pending,45158
+1845,1410,Surgery,3116.8716,Pending,44967
+1846,297,Medication,20,Paid,45598
+1847,1708,Imaging,2630,Unpaid,45202
+1848,1255,Room,1378,Unpaid,45162
+1849,1066,Room,1569.2485,Pending,45152
+1850,814,Medication,20,Paid,45510
+1851,322,Imaging,20,Overdue,45598
+1852,116,Imaging,2810.9,Overdue,45430
+1853,556,Imaging,2294.7482,Pending,45598
+1854,1038,Consultation,6421.93,Overdue,45598
+1855,1679,Surgery,1604.65,Paid,45598
+1856,105,Imaging,1919,Paid,45597
+1857,1690,Lab Test,2059.28,Paid,45145
+1858,810,Surgery,2908.91,Paid,46189
+1859,784,Surgery,3774,Paid,45414
+1860,905,Imaging,2281.02,Unpaid,45807
+1861,1713,Imaging,5213.66,Unpaid,45598
+1862,1156,Consultation,10401,Paid,45980
+1863,1288,Imaging,1023.67,Pending,45598
+1864,350,Imaging,4675.49,Paid,45354
+1865,1065,Surgery,3588.58,Pending,45598
+1866,645,Imaging,6641.1036,Unpaid,45071
+1867,588,Surgery,4109,Unpaid,45074
+1868,1368,Imaging,1320.65,Paid,45598
+1869,1375,Imaging,20,Pending,45493
+1870,1783,Consultation,5331.47,Pending,46040
+1871,11,Surgery,248.594,Paid,45761
+1872,763,Room,7051.22,Overdue,45241
+1873,1392,Medication,5159.58,Paid,46009
+1874,1651,Medication,3760.13,Overdue,45348
+1875,1832,Room,20,Paid,45203
+1876,1044,Lab Test,5525.97,Paid,45436
+1877,17,Imaging,8350.3,Paid,45598
+1878,1702,Imaging,2225,Paid,46192
+1879,1144,Imaging,1274.28,Paid,45005
+1880,1251,Room,-3223.92,Paid,45595
+1881,408,Imaging,245041.34,Pending,45310
+1882,1281,Room,1906,Pending,45598
+1883,851,Surgery,6197.59,Overdue,45415
+1884,1366,Imaging,9232,Paid,46146
+1885,903,Room,4491,Paid,45418
+1886,431,Imaging,2525.04,Pending,45539
+1887,1066,Medication,4820,Overdue,45598
+1888,718,Consultation,7031.8987,Paid,45776
+1889,1690,Imaging,3978.9099,Pending,45816
+1890,770,Surgery,4955.29,Overdue,46095
+1891,1799,Lab Test,5614.2986,Paid,45584
+1892,1825,Lab Test,874,Pending,45405
+1893,407,Consultation,4877.364,Paid,45598
+1894,685,Imaging,20,Unpaid,45529
+1895,1440,Surgery,1524.71,Paid,45598
+1896,1283,Imaging,6936.99,Paid,45598
+1897,1281,Room,6113.11,Overdue,45117
+1898,1298,Imaging,2689.46,Pending,45739
+1899,982,Consultation,8617.3803,Pending,45744
+1900,191,Lab Test,20,Pending,45598
+1901,1248,Room,2884.74,Overdue,45598
+1902,1865,Medication,4325,Overdue,45135
+1903,334,Surgery,20,Overdue,45892
+1904,1508,Imaging,3027,Paid,45083
+1905,16,Lab Test,126.51,Paid,45971
+1906,274,Room,194.79,Paid,45598
+1907,1446,Room,2683.3103,Pending,45112
+1908,1005,Lab Test,20,Pending,45598
+1909,1126,Imaging,1076.12,Paid,46179
+1910,942,Imaging,,Paid,45482
+1911,1631,Surgery,3871.3611,Paid,45958
+1912,774,Imaging,3813.04,Pending,45627
+1913,1614,Imaging,2454.36,Pending,45598
+1914,1525,Room,6489.34,Paid,45395
+1915,562,Imaging,2612,Pending,46210
+1916,1354,Room,3430.76,Paid,45439
+1917,181,Imaging,782,Paid,46050
+1918,151,Imaging,-20,Paid,46056
+1919,1712,Imaging,3063.9809,Pending,46070
+1920,493,Consultation,2672.16,Paid,45461
+1921,1222,Room,8629.73,Paid,45576
+1922,1241,Medication,5502.34,Pending,44947
+1923,596,Imaging,2260.64,Paid,45811
+1924,1262,Lab Test,3924.9891,Unpaid,45598
+1925,397,Imaging,,Pending,46018
+1926,999,Lab Test,5050.27,Paid,45183
+1927,570,Room,8506.72,Unpaid,45475
+1928,1438,Surgery,1131.8107,Unpaid,46070
+1929,1336,Lab Test,6425.1,Pending,45726
+1930,1096,Imaging,2231.383,Unpaid,45802
+1931,1880,Room,4080.85,Unpaid,45544
+1932,1450,Room,1826.97,Paid,44984
+1933,388,Imaging,3073.98,Paid,45455
+1934,1121,Medication,-4134.6862,Overdue,46186
+1935,488,Imaging,5280,Paid,45598
+1936,611,Imaging,3684.0714,Paid,45598
+1937,614,Lab Test,20,Pending,45209
+1938,381,Imaging,3269,Paid,45088
+1939,1197,Imaging,7911.2,Paid,45899
+1940,1672,Imaging,-3245.3846,Pending,45670
+1941,166,Imaging,7995.45,Unpaid,45252
+1942,787,Imaging,3139.41,Pending,45598
+1943,1100,Medication,20,Unpaid,45598
+1944,1550,Room,2201,Pending,44985
+1945,873,Medication,1824.7,Pending,45929
+1946,628,Surgery,2811.4,Paid,45706
+1947,1770,Medication,20,Pending,45809
+1948,1460,Room,3473.54,Unpaid,45715
+1949,1256,Room,2515.22,Paid,46115
+1950,60,Consultation,7363.59,Overdue,45000
+1951,560,Imaging,20,Pending,46101
+1952,1095,Lab Test,4237.0061,Paid,45598
+1953,788,Lab Test,4733.0844,Pending,45521
+1954,1185,Surgery,5824.94,Pending,45962
+1955,525,Imaging,2409.2364,Overdue,45598
+1956,290,Imaging,4162.4,Paid,46011
+1957,999,Medication,4559.83,Pending,45598
+1958,1237,Consultation,20,Overdue,45823
+1959,224,Room,2516.9,Paid,45391
+1960,73,Consultation,3402,Paid,44991
+1961,678,Room,3753.7347,Paid,45076
+1962,196,Imaging,3717.02,Unpaid,46009
+1963,14,Surgery,4812.56,Overdue,46102
+1964,1107,Imaging,-9312.8148,Pending,45598
+1965,760,Medication,1714,Paid,45269
+1966,748,Room,4643.5153,Overdue,46233
+1967,355,Consultation,7403.91,Overdue,45985
+1968,807,Medication,20,Paid,46120
+1969,1496,Imaging,4304.39,Paid,44972
+1970,1179,Consultation,20,Paid,46118
+1971,1215,Medication,10056.73,Paid,45760
+1972,228,Consultation,5066.15,Paid,45605
+1973,347,Lab Test,4661.272,Paid,45494
+1974,233,Consultation,20,Unpaid,45223
+1975,996,Medication,1986.52,Pending,45598
+1976,1390,Lab Test,2000.6118,Overdue,45498
+1977,1341,Imaging,8799.37,Paid,45598
+1978,1877,Lab Test,,Pending,45598
+1979,1590,Lab Test,20,Pending,45598
+1980,673,Imaging,,Overdue,45987
+1981,1622,Room,20,Paid,45528
+1982,1473,Imaging,20,Paid,45337
+1983,538,Surgery,4860.27,Paid,45296
+1984,1443,Surgery,5734.31,Overdue,45804
+1985,259,Consultation,-4876.26,Paid,45884
+1986,292,Imaging,9139,Paid,45598
+1987,1378,Consultation,4606,Paid,45598
+1988,363,Imaging,4010,Paid,45598
+1989,117,Imaging,20,Pending,45108
+1990,1536,Imaging,6073,Unpaid,45598
+1991,1090,Consultation,20,Pending,45670
+1992,1014,Medication,9561.11,Pending,45519
+1993,1454,Medication,6112.39,Paid,45598
+1994,788,Imaging,11869.39,Pending,45639
+1995,363,Imaging,4668,Pending,46100
+1996,145,Surgery,6260.5,Paid,45710
+1997,343,Consultation,2668.49,Pending,45752
+1998,135,Lab Test,3370.16,Overdue,45118
+1999,160,Consultation,345,Pending,46181
+2000,469,Surgery,20,Paid,45598
+2001,1609,Surgery,4068.49,Pending,45598
+2002,1413,Medication,3352.45,Unpaid,45598
+2003,1830,Surgery,272.08,Overdue,45598
+2004,1088,Consultation,804,Pending,44971
+2005,62,Medication,-3597.41,Pending,45598
+2006,780,Medication,220.63,Overdue,46088
+2007,1184,Medication,4569.94,Paid,45565
+2008,751,Room,-314,Paid,45019
+2009,526,Room,4267.56,Paid,45364
+2010,1044,Room,-47.86,Overdue,45598
+2011,1111,Lab Test,60,Paid,45498
+2012,1681,Surgery,20,Pending,45751
+2013,1647,Lab Test,3019.16,Paid,45631
+2014,1444,Consultation,7862.19,Paid,45082
+2015,1622,Medication,7691.9924,Paid,46002
+2016,417,Lab Test,4472.2,Paid,45598
+2017,109,Lab Test,20,Overdue,45960
+2018,897,Consultation,6031.63,Paid,46214
+2019,43,Imaging,4177,Pending,45598
+2020,934,Lab Test,,Pending,45411
+2021,1262,Imaging,7122.0984,Overdue,45373
+2022,285,Lab Test,5346.33,Paid,44960
+2023,1790,Lab Test,9384.65,Paid,45781
+2024,567,Room,20,Pending,45357
+2025,992,Room,20,Overdue,45429
+2026,706,Surgery,23.06,Pending,45747
+2027,378,Room,2644.94,Unpaid,45776
+2028,757,Medication,8264.52,Overdue,45349
+2029,528,Medication,1629.22,Unpaid,44979
+2030,1435,Medication,1693.39,Paid,45598
+2031,690,Room,4751.8758,Pending,45273
+2032,25,Lab Test,6029,Overdue,45894
+2033,1779,Room,20,Overdue,45935
+2034,765,Room,6619.14,Paid,45047
+2035,1678,Imaging,1534,Pending,45770
+2036,701,Imaging,3193,Paid,45598
+2037,1628,Imaging,7754.79,Overdue,45598
+2038,364,Medication,2850.67,Pending,45598
+2039,1155,Consultation,20,Pending,45216
+2040,10,Imaging,20,Paid,45598
+2041,62,Room,3413,Pending,45628
+2042,632,Room,2497,Pending,45269
+2043,875,Lab Test,3678.42,Overdue,45753
+2044,1581,Imaging,2296.1661,Paid,45598
+2045,1894,Medication,7224,Paid,45851
+2046,1551,Imaging,3574.3,Pending,46017
+2047,1657,Surgery,20,Paid,45103
+2048,1036,Imaging,5950,Paid,45219
+2049,345,Medication,9219,Overdue,45300
+2050,1791,Surgery,3964.7929,Unpaid,45067
+2051,943,Surgery,4197.65,Paid,45598
+2052,195,Imaging,1160.34,Paid,44956
+2053,163,Surgery,2773,Pending,45866
+2054,470,Surgery,5008.61,Pending,45598
+2055,1343,Imaging,6895,Paid,44964
+2056,261,Imaging,4838,Paid,46187
+2057,1339,Room,8954.1226,Pending,45598
+2058,261,Consultation,3795.41,Paid,46084
+2059,1291,Consultation,134.91,Unpaid,45469
+2060,549,Surgery,220.8338,Pending,45470
+2061,642,Surgery,7203.24,Paid,45598
+2062,699,Lab Test,,Pending,45529
+2063,178,Room,20,Overdue,45598
+2064,133,Medication,2871.48,Pending,45469
+2065,656,Consultation,2980.42,Paid,45074
+2066,1800,Lab Test,1245.4,Pending,46149
+2067,837,Room,20,Unpaid,45495
+2068,359,Surgery,1179.19,Paid,46169
+2069,989,Room,639.95,Paid,46111
+2070,215,Room,20,Paid,45436
+2071,1694,Consultation,5987.2,Pending,45281
+2072,986,Consultation,4349,Pending,45598
+2073,1202,Imaging,2108,Pending,45900
+2074,1621,Lab Test,20,Pending,45598
+2075,1726,Imaging,2603,Paid,45543
+2076,1385,Consultation,5063.17,Paid,45797
+2077,1087,Medication,1292,Paid,45789
+2078,1007,Consultation,50.1,Pending,45907
+2079,711,Imaging,3130.93,Pending,46097
+2080,1440,Surgery,4505.21,Pending,45135
+2081,127,Imaging,20,Paid,45598
+2082,1756,Consultation,7562.03,Unpaid,45979
+2083,1861,Surgery,1000,Paid,45245
+2084,1536,Consultation,2231.6518,Overdue,46061
+2085,1619,Lab Test,7043.81,Pending,46229
+2086,1244,Consultation,3876,Unpaid,45598
+2087,913,Lab Test,6788.27,Overdue,45758
+2088,1457,Consultation,8161.04,Paid,45723
+2089,1891,Consultation,20,Pending,45792
+2090,860,Medication,6206.1317,Pending,45598
+2091,1337,Surgery,7476.4606,Paid,45836
+2092,342,Surgery,2372.58,Pending,45503
+2093,1761,Medication,2611.36,Pending,45699
+2094,578,Imaging,20,Overdue,45786
+2095,1203,Consultation,5843.24,Pending,45678
+2096,118,Imaging,20,Paid,45598
+2097,516,Surgery,6406.42,Overdue,46018
+2098,1760,Surgery,20,Unpaid,46021
+2099,1653,Surgery,7672.07,Overdue,45511
+2100,1033,Lab Test,4688.82,Pending,45367
+2101,945,Imaging,6526.9,Unpaid,45598
+2102,1792,Room,1062,Pending,45703
+2103,258,Imaging,20,Unpaid,45265
+2104,922,Lab Test,20,Pending,45043
+2105,303,Medication,6773.61,Pending,45176
+2106,796,Medication,5488.82,Pending,45598
+2107,107,Imaging,5595.24,Overdue,45068
+2108,193,Consultation,4374.33,Overdue,44948
+2109,1845,Room,5131.61,Pending,45598
+2110,1147,Medication,2625,Paid,45091
+2111,1722,Surgery,4610.9,Paid,45598
+2112,1439,Consultation,929,Paid,45598
+2113,405,Imaging,2472,Paid,45353
+2114,1710,Medication,12629.99,Pending,45003
+2115,1037,Room,3616.764,Pending,45598
+2116,1252,Lab Test,20,Paid,45082
+2117,1370,Consultation,2274.23,Paid,45598
+2118,1811,Medication,,Pending,45598
+2119,172,Lab Test,3977.66,Paid,45088
+2120,75,Surgery,831.92,Unpaid,45185
+2121,1025,Medication,2864.51,Paid,45148
+2122,1515,Room,,Pending,45534
+2123,544,Imaging,4091.55,Paid,45589
+2124,1244,Room,1617.8,Paid,45309
+2125,1752,Surgery,4570.64,Paid,46086
+2126,124,Imaging,9346,Pending,45216
+2127,964,Consultation,36.76,Pending,45904
+2128,719,Consultation,567156.5641,Paid,45703
+2129,79,Room,-20,Unpaid,45698
+2130,851,Surgery,2801.69,Paid,45598
+2131,154,Lab Test,4186.7143,Unpaid,45778
+2132,1827,Consultation,1256,Paid,45001
+2133,623,Medication,20,Overdue,45598
+2134,1220,Imaging,3385.88,Paid,45042
+2135,638,Consultation,8096.35,Pending,45598
+2136,247,Surgery,3060.6519,Paid,45598
+2137,581,Imaging,5175.72,Pending,45598
+2138,659,Lab Test,6880.64,Unpaid,45104
+2139,1223,Medication,10914.42,Pending,45598
+2140,1191,Medication,343.1371,Paid,45867
+2141,1294,Consultation,653,Paid,45093
+2142,1501,Medication,2623.3,Paid,45291
+2143,698,Room,5346.3099,Overdue,45598
+2144,801,Room,20,Paid,45375
+2145,1212,Consultation,5461,Unpaid,45922
+2146,1337,Imaging,197239.61,Pending,45598
+2147,327,Room,1898,Paid,46126
+2148,641,Medication,4776.53,Paid,45957
+2149,1620,Room,6168.95,Pending,45807
+2150,224,Consultation,6584.07,Pending,45598
+2151,1825,Imaging,3544.29,Pending,45344
+2152,466,Imaging,,Paid,44947
+2153,1235,Consultation,4364.97,Paid,46003
+2154,615,Imaging,7193.5918,Paid,45683
+2155,1026,Consultation,4643.65,Pending,45690
+2156,1804,Lab Test,5435.6698,Paid,45598
+2157,22,Imaging,6177.98,Paid,45038
+2158,1823,Surgery,9375.69,Overdue,45417
+2159,1827,Imaging,1742.5554,Pending,45521
+2160,304,Lab Test,8377.13,Paid,46230
+2161,1479,Medication,10913.2993,Overdue,45414
+2162,588,Room,1934,Unpaid,46125
+2163,163,Room,2849.6296,Paid,46063
+2164,987,Medication,2215,Pending,46049
+2165,1764,Imaging,5470.67,Pending,45377
+2166,864,Imaging,20,Paid,45598
+2167,833,Lab Test,2002,Pending,45398
+2168,1229,Imaging,2679,Paid,45331
+2169,1042,Surgery,2416.7169,Pending,45887
+2170,1231,Lab Test,-2386.51,Paid,45828
+2171,516,Imaging,2032.22,Paid,46159
+2172,1373,Lab Test,5832.16,Paid,45894
+2173,646,Imaging,5114.7327,Pending,45598
+2174,1576,Room,8610.2,Unpaid,45847
+2175,1587,Consultation,5839.8,Paid,44966
+2176,417,Imaging,207.23,Unpaid,45409
+2177,1057,Consultation,2990,Paid,45598
+2178,674,Medication,2671.3,Paid,45633
+2179,1177,Lab Test,4265.71,Overdue,45833
+2180,751,Imaging,6779.7489,Unpaid,45533
+2181,838,Surgery,4057.51,Paid,46067
+2182,1427,Surgery,4065.48,Paid,46061
+2183,587,Medication,3530.13,Unpaid,45598
+2184,775,Surgery,5931.752,Overdue,45538
+2185,454,Room,1793.28,Pending,45283
+2186,1698,Room,,Overdue,45016
+2187,633,Surgery,5433.74,Overdue,45986
+2188,1164,Medication,4625.5,Pending,46025
+2189,233,Room,7470.25,Unpaid,45890
+2190,223,Lab Test,20,Pending,45490
+2191,1894,Lab Test,3198.95,Overdue,45955
+2192,1493,Surgery,-3820.14,Paid,45182
+2193,74,Imaging,20,Paid,45593
+2194,94,Consultation,3240.21,Paid,45080
+2195,636,Medication,7061,Overdue,45598
+2196,1798,Consultation,9758.34,Paid,45812
+2197,1280,Imaging,6447.22,Overdue,44973
+2198,1453,Surgery,2527,Paid,46183
+2199,1406,Imaging,7285,Pending,45010
+2200,648,Consultation,6234,Paid,46223
